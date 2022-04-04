@@ -140,12 +140,6 @@ export default {
 					alt:""
 				},
 				{
-					url: window.baseUrl + "/img/csuseals/los_angeles_seal.svg",
-					name: "Los Angeles",
-					short_name: "los_angeles",
-					alt:""
-				},
-				{
 					url: window.baseUrl + "/img/csuseals/northridge_seal.svg",
 					name: "Northridge",
 					short_name: "northridge",
