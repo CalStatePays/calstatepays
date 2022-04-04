@@ -14,13 +14,6 @@
     "opt_in": 1
   },
   {
-    "id": "45",
-    "university": "California State University, Los Angeles",
-    "short_name": "los_angeles",
-    "acronym": "csula",
-    "opt_in": 0
-  },
-  {
     "id": "55",
     "university": "California State University, Dominguez Hills",
     "short_name": "dominguez_hills",
