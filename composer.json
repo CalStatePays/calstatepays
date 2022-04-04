@@ -55,7 +55,7 @@
             "php artisan optimize"
         ],
         "copy-env-file": [
-            "php -r \"file_exists('.env') || copy('.env.example', '.env');\""
+            "php -r \"file_exists('.env') || copy('.env.dev', '.env');\""
         ],
         "generate-security-key": [
             "php artisan key:generate"
