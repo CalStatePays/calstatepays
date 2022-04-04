@@ -27,6 +27,7 @@
 	&__IndustryTitle {
 		font-size: 1rem;
 		margin: 0;
+		font-weight: bold;
 	}
 
 	&__PercentageBar--Background {
@@ -48,12 +49,14 @@
 		margin: 0;
 		color: $blue;
 		font-size: 1rem;
+		font-weight: bold;
 	}
 
 	&__SalaryText {
 		margin: 0;
 		color: $green;
 		font-size: 1rem;
+		font-weight: bold;
 	}
 
 	&__SalaryBar {
