@@ -33,10 +33,6 @@
                     <img :src="this.url + '/img/csuseals/fullerton_seal.svg'" alt="CSU Fullerton Seal">
                     <figcaption>Fullerton</figcaption>
                 </figure>
-                <figure class="col-md col-sm-4 col-4 text-center">
-                    <img :src="this.url + '/img/csuseals/los_angeles_seal.svg'" alt="CSU Los Angeles Seal">
-                    <figcaption>Los Angeles</figcaption>
-                </figure>
             </div>
         </div>
     </header>
