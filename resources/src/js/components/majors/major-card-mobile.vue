@@ -55,7 +55,7 @@
 						<div v-show="nullValues">
 							<div class="csu-card__no-data--mobile">
 								<p class="lead pl-5 pr-5">No data is available for this selected Degree Level.</p>
-								<p class="lead pl-5 pr-5">Please see the <router-link to="/faq">FAQ</router-link> section for more information on how we collected the data.</p>
+								<p class="lead pl-5 pr-5">Please see the <router-link to="/faq" class="font-weight-bold">FAQ</router-link> section for more information on how we collected the data.</p>
 							</div>
 						</div>
 							<div v-show="!nullValues" class="row" style="height: 400px">
@@ -83,7 +83,7 @@
 					</p>
 					<p class="lead pl-md-5 pr-md-5">
 						<strong class="font-weight-bold">Please Note:</strong> Some majors might not have any data available at the moment.
-						For more information on how we gathered the data, please read the <router-link to="/faq">FAQ</router-link>.
+						For more information on how we gathered the data, please read the <router-link to="/faq" class="font-weight-bold">FAQ</router-link>.
 					</p>
 				</div>
 			</div>

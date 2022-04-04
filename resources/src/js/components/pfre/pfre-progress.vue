@@ -15,7 +15,7 @@
 				<p class="lead pl-md-5 pr-md-5">
 					<span class="font-weight-bold">Please Note:</span> Some majors might not have any data available at the moment.
 					For more information on how we gathered the data, please read the
-					<router-link to="/faq">FAQ</router-link>.
+					<router-link to="/faq" class="font-weight-bold">FAQ</router-link>.
 				</p>
 			</div>
 			<div v-else id="progress-bars">

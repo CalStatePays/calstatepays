@@ -37,7 +37,6 @@ export default {
                 {url: window.baseUrl + '/img/csuseals/fullerton_seal.svg',name:'Fullerton',alt:'',admission:'http://admissions.fullerton.edu/'},
                 {url :window.baseUrl+ '/img/csuseals/northridge_seal.svg',name:'Northridge',alt:'',admission:'https://www.csun.edu/admissions-records'},
                 {url: window.baseUrl + '/img/csuseals/dominguez_seal.svg',name:'Dominguez Hills',alt:'',admission:'https://www.csudh.edu/records-registration/'},
-                // {url: window.baseUrl + '/img/csuseals/los_angeles_seal.svg',name:'Los Angeles',alt:'',admission:'http://www.calstatela.edu/admissions'},
                 {url: window.baseUrl + '/img/csuseals/channel_islands_seal.svg',name:'Channel Islands',alt:'',admission:'https://www.csuci.edu/admissions/'},                
             ]
         };
