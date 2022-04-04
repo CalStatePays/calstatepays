@@ -18,12 +18,6 @@
         "opt_in":1
     },
     {
-        "university_id":45,
-        "university": "California State University Los Angeles",
-        "card_image": "/img/csucampuses/losAngeles.png",
-        "opt_in":1
-    },
-    {
         "university_id":50,
         "university": "California State University Fullerton",
         "card_image": "/img/csucampuses/fullerton.png",
