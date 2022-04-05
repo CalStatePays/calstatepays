@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-12 mb-4">
                     <h2 class="text-center font-italic">
-                        <span class="homepageUniversities__headline"> Endorsed by 7 CSUs,</span>
+                        <span class="homepageUniversities__headline"> Endorsed by {{ universitySeals.length }} CSUs,</span>
                         <span class="homepageUniversities__headline"> CalStatePays combines</span>
                         <span class="homepageUniversities__headline"> the data of</span>
                         <span class="homepageUniversities__headline"> SoCal's top public universities</span>

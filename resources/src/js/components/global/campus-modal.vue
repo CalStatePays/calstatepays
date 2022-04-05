@@ -110,7 +110,7 @@ export default {
 			universitySeals: [
 				{
 					url: window.baseUrl + "/img/csuseals/all.svg",
-					name: "All 7 Campuses",
+					name: "All 6 Campuses",
 					short_name: "all",
 					alt:""
 				},

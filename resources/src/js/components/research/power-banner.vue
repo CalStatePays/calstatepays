@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-12">
                     <h1 class="text-center home__heading">
-                        We Gathered Data Across 7 CSUs in the Metro LA Area
+                        We Gathered Data Across 6 CSUs in the Metro LA Area
                     </h1>
                 </div>
             </div>

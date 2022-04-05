@@ -43,15 +43,15 @@
 				<div class="row">
 					<div class="col-sm-6 col-lg-12">
 						<button
-							class="pfre-btn"
-							:class="{'pfre-btn--selected': this.form.education == 'FTF', '':this.form.education != 'FTF'}"
+							class="pfre-btn font-weight-bold"
+							:class="{'pfre-btn--selected font-weight-bold': this.form.education == 'FTF', '':this.form.education != 'FTF'}"
 							@click.prevent="setEducationLevel('FTF')"
 						>First Time Freshman</button>
 					</div>
 					<div class="col-sm-6 col-lg-12">
 						<button
-							class="pfre-btn"
-							:class="{'pfre-btn--selected': this.form.education == 'FTT', '':this.form.education != 'FTT'}"
+							class="pfre-btn font-weight-bold"
+							:class="{'pfre-btn--selected font-weigth-bold': this.form.education == 'FTT', '':this.form.education != 'FTT'}"
 							@click.prevent="setEducationLevel('FTT')"
 						>First Time Transfer</button>
 					</div>
