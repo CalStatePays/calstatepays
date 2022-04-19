@@ -1,2702 +1,3550 @@
 [
     {
         "median_annual_wage_5": null,
-        "id": 6123.0
+        "id": 6824.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6124.0
+        "id": 6825.0
     },
     {
-        "median_annual_wage_5": 85131.0,
-        "id": 6125.0
+        "median_annual_wage_5": null,
+        "id": 6826.0
     },
     {
-        "median_annual_wage_5": 70967.0,
-        "id": 6126.0
+        "median_annual_wage_5": 99134.0,
+        "id": 6827.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6127.0
+        "id": 6828.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6128.0
+        "median_annual_wage_5": 87394.0,
+        "id": 6829.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6129.0
+        "id": 6830.0
     },
     {
-        "median_annual_wage_5": 69183.0,
-        "id": 6130.0
+        "median_annual_wage_5": null,
+        "id": 6831.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6131.0
+        "id": 6832.0
     },
     {
-        "median_annual_wage_5": 29788.0,
-        "id": 6132.0
+        "median_annual_wage_5": 74626.0,
+        "id": 6833.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6133.0
+        "id": 6834.0
+    },
+    {
+        "median_annual_wage_5": 39502.0,
+        "id": 6835.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6134.0
+        "id": 6836.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6135.0
+        "id": 6837.0
     },
     {
-        "median_annual_wage_5": 50072.0,
-        "id": 6136.0
+        "median_annual_wage_5": null,
+        "id": 6838.0
     },
     {
-        "median_annual_wage_5": 50262.0,
-        "id": 6137.0
+        "median_annual_wage_5": null,
+        "id": 6839.0
     },
     {
-        "median_annual_wage_5": 49276.0,
-        "id": 6138.0
+        "median_annual_wage_5": 56676.0,
+        "id": 6840.0
     },
     {
-        "median_annual_wage_5": 53515.0,
-        "id": 6139.0
+        "median_annual_wage_5": 54281.0,
+        "id": 6841.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6140.0
+        "median_annual_wage_5": 54165.0,
+        "id": 6842.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6141.0
+        "median_annual_wage_5": 63352.0,
+        "id": 6843.0
     },
     {
-        "median_annual_wage_5": 43392.0,
-        "id": 6142.0
+        "median_annual_wage_5": null,
+        "id": 6844.0
     },
     {
-        "median_annual_wage_5": 32111.0,
-        "id": 6143.0
+        "median_annual_wage_5": 15597.0,
+        "id": 6845.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6144.0
+        "id": 6846.0
     },
     {
-        "median_annual_wage_5": 61710.0,
-        "id": 6145.0
+        "median_annual_wage_5": 48387.0,
+        "id": 6847.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6146.0
+        "id": 6848.0
+    },
+    {
+        "median_annual_wage_5": 63611.0,
+        "id": 6849.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6147.0
+        "id": 6850.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6148.0
+        "id": 6851.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6149.0
+        "id": 6852.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6150.0
+        "id": 6853.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6151.0
+        "id": 6854.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6152.0
+        "id": 6855.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6153.0
+        "id": 6856.0
     },
     {
-        "median_annual_wage_5": 38589.0,
-        "id": 6154.0
+        "median_annual_wage_5": 42419.0,
+        "id": 6857.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6155.0
+        "id": 6858.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6156.0
+        "id": 6859.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6157.0
+        "id": 6860.0
     },
     {
+        "median_annual_wage_5": 60411.0,
+        "id": 6861.0
+    },
+    {
         "median_annual_wage_5": null,
-        "id": 6158.0
+        "id": 6862.0
     },
     {
-        "median_annual_wage_5": 62573.0,
-        "id": 6159.0
+        "median_annual_wage_5": 66304.0,
+        "id": 6863.0
     },
     {
-        "median_annual_wage_5": 31058.0,
-        "id": 6160.0
+        "median_annual_wage_5": 34140.0,
+        "id": 6864.0
     },
     {
-        "median_annual_wage_5": 62486.0,
-        "id": 6161.0
+        "median_annual_wage_5": 68438.0,
+        "id": 6865.0
     },
     {
-        "median_annual_wage_5": 49305.0,
-        "id": 6162.0
+        "median_annual_wage_5": 52664.0,
+        "id": 6866.0
     },
     {
-        "median_annual_wage_5": 41586.0,
-        "id": 6163.0
+        "median_annual_wage_5": 46082.0,
+        "id": 6867.0
     },
     {
-        "median_annual_wage_5": 48458.0,
-        "id": 6164.0
+        "median_annual_wage_5": 53266.0,
+        "id": 6868.0
     },
     {
-        "median_annual_wage_5": 54870.0,
-        "id": 6165.0
+        "median_annual_wage_5": 60584.0,
+        "id": 6869.0
     },
     {
-        "median_annual_wage_5": 55540.0,
-        "id": 6166.0
+        "median_annual_wage_5": 58183.0,
+        "id": 6870.0
     },
     {
-        "median_annual_wage_5": 50079.0,
-        "id": 6167.0
+        "median_annual_wage_5": 60514.0,
+        "id": 6871.0
     },
     {
-        "median_annual_wage_5": 55778.0,
-        "id": 6168.0
+        "median_annual_wage_5": 60692.0,
+        "id": 6872.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6169.0
+        "median_annual_wage_5": 57935.0,
+        "id": 6873.0
     },
     {
-        "median_annual_wage_5": 52402.0,
-        "id": 6170.0
+        "median_annual_wage_5": 55216.0,
+        "id": 6874.0
     },
     {
-        "median_annual_wage_5": 41415.0,
-        "id": 6171.0
+        "median_annual_wage_5": 47468.0,
+        "id": 6875.0
     },
     {
-        "median_annual_wage_5": 50396.0,
-        "id": 6172.0
+        "median_annual_wage_5": 49981.0,
+        "id": 6876.0
     },
     {
-        "median_annual_wage_5": 45191.0,
-        "id": 6173.0
+        "median_annual_wage_5": 43342.0,
+        "id": 6877.0
     },
     {
-        "median_annual_wage_5": 33723.0,
-        "id": 6174.0
+        "median_annual_wage_5": 37070.0,
+        "id": 6878.0
     },
     {
-        "median_annual_wage_5": 51302.0,
-        "id": 6175.0
+        "median_annual_wage_5": 61343.0,
+        "id": 6879.0
     },
     {
-        "median_annual_wage_5": 53583.0,
-        "id": 6176.0
+        "median_annual_wage_5": 58216.0,
+        "id": 6880.0
     },
     {
-        "median_annual_wage_5": 35445.0,
-        "id": 6177.0
+        "median_annual_wage_5": 53972.0,
+        "id": 6881.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6178.0
+        "id": 6882.0
     },
     {
-        "median_annual_wage_5": 63157.0,
-        "id": 6179.0
+        "median_annual_wage_5": null,
+        "id": 6883.0
     },
     {
-        "median_annual_wage_5": 56367.0,
-        "id": 6180.0
+        "median_annual_wage_5": null,
+        "id": 6884.0
     },
     {
-        "median_annual_wage_5": 26655.0,
-        "id": 6181.0
+        "median_annual_wage_5": 67487.0,
+        "id": 6885.0
     },
     {
-        "median_annual_wage_5": 56099.0,
-        "id": 6182.0
+        "median_annual_wage_5": 63522.0,
+        "id": 6886.0
     },
     {
-        "median_annual_wage_5": 57909.0,
-        "id": 6183.0
+        "median_annual_wage_5": 39631.0,
+        "id": 6887.0
     },
     {
-        "median_annual_wage_5": 36000.0,
-        "id": 6184.0
+        "median_annual_wage_5": null,
+        "id": 6888.0
     },
     {
-        "median_annual_wage_5": 39009.0,
-        "id": 6185.0
+        "median_annual_wage_5": 59762.0,
+        "id": 6889.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6186.0
+        "median_annual_wage_5": 54888.0,
+        "id": 6890.0
     },
     {
-        "median_annual_wage_5": 53626.0,
-        "id": 6187.0
+        "median_annual_wage_5": 50945.0,
+        "id": 6891.0
     },
     {
-        "median_annual_wage_5": 40508.0,
-        "id": 6188.0
+        "median_annual_wage_5": 47496.0,
+        "id": 6892.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6189.0
+        "id": 6893.0
     },
     {
-        "median_annual_wage_5": 30238.0,
-        "id": 6190.0
+        "median_annual_wage_5": 54248.0,
+        "id": 6894.0
     },
     {
-        "median_annual_wage_5": 28135.0,
-        "id": 6191.0
+        "median_annual_wage_5": 41848.0,
+        "id": 6895.0
     },
     {
-        "median_annual_wage_5": 35527.0,
-        "id": 6192.0
+        "median_annual_wage_5": 47204.0,
+        "id": 6896.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6193.0
+        "median_annual_wage_5": 16325.0,
+        "id": 6897.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6194.0
+        "median_annual_wage_5": 31476.0,
+        "id": 6898.0
     },
     {
-        "median_annual_wage_5": 5752.0,
-        "id": 6195.0
+        "median_annual_wage_5": 42214.0,
+        "id": 6899.0
     },
     {
-        "median_annual_wage_5": 75118.0,
-        "id": 6196.0
+        "median_annual_wage_5": 66879.0,
+        "id": 6900.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6197.0
+        "id": 6901.0
+    },
+    {
+        "median_annual_wage_5": 89743.0,
+        "id": 6902.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6198.0
+        "id": 6903.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6199.0
+        "id": 6904.0
+    },
+    {
+        "median_annual_wage_5": 80052.0,
+        "id": 6905.0
     },
     {
-        "median_annual_wage_5": 72408.0,
-        "id": 6200.0
+        "median_annual_wage_5": 74322.0,
+        "id": 6906.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6201.0
+        "id": 6907.0
     },
     {
-        "median_annual_wage_5": 76082.0,
-        "id": 6202.0
+        "median_annual_wage_5": 92992.0,
+        "id": 6908.0
     },
     {
-        "median_annual_wage_5": 74523.0,
-        "id": 6203.0
+        "median_annual_wage_5": 81918.0,
+        "id": 6909.0
     },
     {
-        "median_annual_wage_5": 52079.0,
-        "id": 6204.0
+        "median_annual_wage_5": 61698.0,
+        "id": 6910.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6205.0
+        "id": 6911.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6206.0
+        "id": 6912.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6207.0
+        "id": 6913.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6208.0
+        "id": 6914.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6209.0
+        "id": 6915.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6210.0
+        "id": 6916.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6211.0
+        "id": 6917.0
     },
     {
-        "median_annual_wage_5": 45858.0,
-        "id": 6212.0
+        "median_annual_wage_5": 28680.0,
+        "id": 6918.0
     },
     {
-        "median_annual_wage_5": 30917.0,
-        "id": 6213.0
+        "median_annual_wage_5": 33030.0,
+        "id": 6919.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6214.0
+        "id": 6920.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6215.0
+        "id": 6921.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6216.0
+        "id": 6922.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6217.0
+        "id": 6923.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6218.0
+        "median_annual_wage_5": 32371.0,
+        "id": 6924.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6219.0
+        "id": 6925.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6220.0
+        "id": 6926.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6221.0
+        "id": 6927.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6222.0
+        "id": 6928.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6223.0
+        "id": 6929.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6224.0
+        "id": 6930.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6225.0
+        "id": 6931.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6226.0
+        "id": 6932.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6227.0
-    },
-    {
-        "median_annual_wage_5": 49111.0,
-        "id": 6228.0
+        "id": 6933.0
     },
     {
-        "median_annual_wage_5": 44818.0,
-        "id": 6229.0
+        "median_annual_wage_5": null,
+        "id": 6934.0
     },
     {
-        "median_annual_wage_5": 49611.0,
-        "id": 6230.0
+        "median_annual_wage_5": null,
+        "id": 6935.0
     },
     {
-        "median_annual_wage_5": 25430.0,
-        "id": 6231.0
+        "median_annual_wage_5": 53985.0,
+        "id": 6936.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6232.0
+        "median_annual_wage_5": 44369.0,
+        "id": 6937.0
     },
     {
-        "median_annual_wage_5": 52098.0,
-        "id": 6233.0
+        "median_annual_wage_5": 55756.0,
+        "id": 6938.0
     },
     {
-        "median_annual_wage_5": 48778.0,
-        "id": 6234.0
+        "median_annual_wage_5": 26596.0,
+        "id": 6939.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6235.0
+        "id": 6940.0
     },
     {
-        "median_annual_wage_5": 37591.0,
-        "id": 6236.0
+        "median_annual_wage_5": 52469.0,
+        "id": 6941.0
     },
     {
-        "median_annual_wage_5": 51583.0,
-        "id": 6237.0
+        "median_annual_wage_5": 52691.0,
+        "id": 6942.0
     },
     {
-        "median_annual_wage_5": 27501.0,
-        "id": 6238.0
+        "median_annual_wage_5": 41148.0,
+        "id": 6943.0
     },
     {
-        "median_annual_wage_5": 29454.0,
-        "id": 6239.0
+        "median_annual_wage_5": 46343.0,
+        "id": 6944.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6240.0
+        "id": 6945.0
     },
     {
-        "median_annual_wage_5": 23444.0,
-        "id": 6241.0
+        "median_annual_wage_5": 36545.0,
+        "id": 6946.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6242.0
+        "median_annual_wage_5": 26937.0,
+        "id": 6947.0
     },
     {
-        "median_annual_wage_5": 4430.0,
-        "id": 6243.0
+        "median_annual_wage_5": 32937.0,
+        "id": 6948.0
     },
     {
-        "median_annual_wage_5": 11967.0,
-        "id": 6244.0
+        "median_annual_wage_5": 39406.0,
+        "id": 6949.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6245.0
+        "median_annual_wage_5": 25665.0,
+        "id": 6950.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6246.0
+        "id": 6951.0
     },
     {
-        "median_annual_wage_5": 37665.0,
-        "id": 6247.0
+        "median_annual_wage_5": 11090.0,
+        "id": 6952.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6248.0
+        "median_annual_wage_5": 33169.0,
+        "id": 6953.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6249.0
+        "id": 6954.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6250.0
+        "id": 6955.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6251.0
+        "id": 6956.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6252.0
+        "id": 6957.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6253.0
+        "id": 6958.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6254.0
+        "id": 6959.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6255.0
+        "id": 6960.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6256.0
+        "id": 6961.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6257.0
+        "id": 6962.0
+    },
+    {
+        "median_annual_wage_5": 22536.0,
+        "id": 6963.0
     },
     {
+        "median_annual_wage_5": 20927.0,
+        "id": 6964.0
+    },
+    {
         "median_annual_wage_5": null,
-        "id": 6258.0
+        "id": 6965.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6259.0
+        "id": 6966.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6260.0
+        "id": 6967.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6261.0
+        "id": 6968.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6262.0
+        "id": 6969.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6263.0
+        "id": 6970.0
     },
     {
-        "median_annual_wage_5": 19976.0,
-        "id": 6264.0
+        "median_annual_wage_5": 72075.0,
+        "id": 6971.0
     },
     {
-        "median_annual_wage_5": 22793.0,
-        "id": 6265.0
+        "median_annual_wage_5": 33896.0,
+        "id": 6972.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6266.0
+        "median_annual_wage_5": 34257.0,
+        "id": 6973.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6267.0
+        "id": 6974.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6268.0
+        "median_annual_wage_5": 47765.0,
+        "id": 6975.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6269.0
+        "median_annual_wage_5": 56390.0,
+        "id": 6976.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6270.0
+        "id": 6977.0
     },
     {
-        "median_annual_wage_5": 67357.0,
-        "id": 6271.0
+        "median_annual_wage_5": 41558.0,
+        "id": 6978.0
     },
     {
-        "median_annual_wage_5": 36997.0,
-        "id": 6272.0
+        "median_annual_wage_5": null,
+        "id": 6979.0
     },
     {
-        "median_annual_wage_5": 33048.0,
-        "id": 6273.0
+        "median_annual_wage_5": 33108.0,
+        "id": 6980.0
     },
     {
-        "median_annual_wage_5": 32070.0,
-        "id": 6274.0
+        "median_annual_wage_5": 37089.0,
+        "id": 6981.0
     },
     {
-        "median_annual_wage_5": 51301.0,
-        "id": 6275.0
+        "median_annual_wage_5": 47339.0,
+        "id": 6982.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6276.0
+        "id": 6983.0
     },
     {
-        "median_annual_wage_5": 29508.0,
-        "id": 6277.0
+        "median_annual_wage_5": 22000.0,
+        "id": 6984.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6278.0
+        "median_annual_wage_5": 24754.0,
+        "id": 6985.0
     },
     {
-        "median_annual_wage_5": 15018.0,
-        "id": 6279.0
+        "median_annual_wage_5": null,
+        "id": 6986.0
     },
     {
-        "median_annual_wage_5": 31017.0,
-        "id": 6280.0
+        "median_annual_wage_5": 35028.0,
+        "id": 6987.0
     },
     {
-        "median_annual_wage_5": 43064.0,
-        "id": 6281.0
+        "median_annual_wage_5": null,
+        "id": 6988.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6282.0
+        "id": 6989.0
     },
     {
-        "median_annual_wage_5": 18618.0,
-        "id": 6283.0
+        "median_annual_wage_5": null,
+        "id": 6990.0
     },
     {
-        "median_annual_wage_5": 20625.0,
-        "id": 6284.0
+        "median_annual_wage_5": null,
+        "id": 6991.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6285.0
+        "id": 6992.0
     },
     {
-        "median_annual_wage_5": 43812.0,
-        "id": 6286.0
+        "median_annual_wage_5": null,
+        "id": 6993.0
     },
     {
-        "median_annual_wage_5": 33568.0,
-        "id": 6287.0
+        "median_annual_wage_5": null,
+        "id": 6994.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6288.0
+        "id": 6995.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6289.0
+        "id": 6996.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6290.0
+        "id": 6997.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6291.0
+        "id": 6998.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6292.0
+        "median_annual_wage_5": 57871.0,
+        "id": 6999.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6293.0
+        "id": 7000.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6294.0
+        "id": 7001.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6295.0
+        "id": 7002.0
     },
     {
-        "median_annual_wage_5": 27699.0,
-        "id": 6296.0
+        "median_annual_wage_5": null,
+        "id": 7003.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6297.0
+        "id": 7004.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6298.0
+        "id": 7005.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6299.0
+        "median_annual_wage_5": 69903.0,
+        "id": 7006.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6300.0
+        "id": 7007.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6301.0
+        "id": 7008.0
     },
     {
+        "median_annual_wage_5": 60094.0,
+        "id": 7009.0
+    },
+    {
         "median_annual_wage_5": null,
-        "id": 6302.0
+        "id": 7010.0
     },
     {
-        "median_annual_wage_5": 53665.0,
-        "id": 6303.0
+        "median_annual_wage_5": null,
+        "id": 7011.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6304.0
+        "id": 7012.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6305.0
+        "id": 7013.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6306.0
+        "id": 7014.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6307.0
+        "id": 7015.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6308.0
+        "id": 7016.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6309.0
+        "id": 7017.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6310.0
+        "id": 7018.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6311.0
+        "id": 7019.0
+    },
+    {
+        "median_annual_wage_5": 29559.0,
+        "id": 7020.0
     },
     {
-        "median_annual_wage_5": 26459.0,
-        "id": 6312.0
+        "median_annual_wage_5": 38009.0,
+        "id": 7021.0
     },
     {
-        "median_annual_wage_5": 40518.0,
-        "id": 6313.0
+        "median_annual_wage_5": 35123.0,
+        "id": 7022.0
     },
     {
-        "median_annual_wage_5": 43621.0,
-        "id": 6314.0
+        "median_annual_wage_5": 39241.0,
+        "id": 7023.0
     },
     {
-        "median_annual_wage_5": 36579.0,
-        "id": 6315.0
+        "median_annual_wage_5": null,
+        "id": 7024.0
     },
     {
-        "median_annual_wage_5": 62250.0,
-        "id": 6316.0
+        "median_annual_wage_5": 55568.0,
+        "id": 7025.0
     },
     {
-        "median_annual_wage_5": 43105.0,
-        "id": 6317.0
+        "median_annual_wage_5": 48548.0,
+        "id": 7026.0
     },
     {
-        "median_annual_wage_5": 5757.0,
-        "id": 6318.0
+        "median_annual_wage_5": 27104.0,
+        "id": 7027.0
     },
     {
-        "median_annual_wage_5": 46675.0,
-        "id": 6319.0
+        "median_annual_wage_5": 50231.0,
+        "id": 7028.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6320.0
+        "id": 7029.0
     },
     {
-        "median_annual_wage_5": 34932.0,
-        "id": 6321.0
+        "median_annual_wage_5": 51808.0,
+        "id": 7030.0
     },
     {
-        "median_annual_wage_5": 35198.0,
-        "id": 6322.0
+        "median_annual_wage_5": 37741.0,
+        "id": 7031.0
     },
     {
-        "median_annual_wage_5": 31976.0,
-        "id": 6323.0
+        "median_annual_wage_5": 36097.0,
+        "id": 7032.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6324.0
+        "median_annual_wage_5": 3787.0,
+        "id": 7033.0
     },
     {
-        "median_annual_wage_5": 25681.0,
-        "id": 6325.0
+        "median_annual_wage_5": 24021.0,
+        "id": 7034.0
     },
     {
-        "median_annual_wage_5": 50297.0,
-        "id": 6326.0
+        "median_annual_wage_5": 40672.0,
+        "id": 7035.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6327.0
+        "id": 7036.0
     },
     {
-        "median_annual_wage_5": 55912.0,
-        "id": 6328.0
+        "median_annual_wage_5": 56305.0,
+        "id": 7037.0
     },
     {
-        "median_annual_wage_5": 4789.0,
-        "id": 6329.0
+        "median_annual_wage_5": null,
+        "id": 7038.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6330.0
+        "id": 7039.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6331.0
+        "id": 7040.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6332.0
+        "id": 7041.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6333.0
+        "id": 7042.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6334.0
+        "id": 7043.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6335.0
+        "id": 7044.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6336.0
+        "id": 7045.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6337.0
+        "id": 7046.0
     },
     {
-        "median_annual_wage_5": 42574.0,
-        "id": 6338.0
+        "median_annual_wage_5": null,
+        "id": 7047.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6339.0
+        "median_annual_wage_5": 46800.0,
+        "id": 7048.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6340.0
+        "id": 7049.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6341.0
+        "id": 7050.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6342.0
+        "id": 7051.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6343.0
+        "id": 7052.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6344.0
+        "id": 7053.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6345.0
+        "id": 7054.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6346.0
+        "id": 7055.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6347.0
+        "id": 7056.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6348.0
+        "id": 7057.0
     },
     {
-        "median_annual_wage_5": 43544.0,
-        "id": 6349.0
+        "median_annual_wage_5": 48706.0,
+        "id": 7058.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6350.0
+        "id": 7059.0
     },
     {
-        "median_annual_wage_5": 29562.0,
-        "id": 6351.0
+        "median_annual_wage_5": 27283.0,
+        "id": 7060.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6352.0
+        "id": 7061.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6353.0
+        "id": 7062.0
     },
     {
-        "median_annual_wage_5": 51906.0,
-        "id": 6354.0
+        "median_annual_wage_5": 54293.0,
+        "id": 7063.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6355.0
+        "id": 7064.0
     },
     {
-        "median_annual_wage_5": 46700.0,
-        "id": 6356.0
+        "median_annual_wage_5": 48544.0,
+        "id": 7065.0
     },
     {
-        "median_annual_wage_5": 19274.0,
-        "id": 6357.0
+        "median_annual_wage_5": 15052.0,
+        "id": 7066.0
     },
     {
-        "median_annual_wage_5": 21401.0,
-        "id": 6358.0
+        "median_annual_wage_5": 22708.0,
+        "id": 7067.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6359.0
+        "id": 7068.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6360.0
+        "id": 7069.0
     },
     {
-        "median_annual_wage_5": 18521.0,
-        "id": 6361.0
+        "median_annual_wage_5": 20358.0,
+        "id": 7070.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6362.0
+        "id": 7071.0
     },
     {
-        "median_annual_wage_5": 35594.0,
-        "id": 6363.0
+        "median_annual_wage_5": 39762.0,
+        "id": 7072.0
     },
     {
-        "median_annual_wage_5": 9347.0,
-        "id": 6364.0
+        "median_annual_wage_5": 44534.0,
+        "id": 7073.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6365.0
+        "id": 7074.0
     },
     {
-        "median_annual_wage_5": 60513.0,
-        "id": 6366.0
+        "median_annual_wage_5": null,
+        "id": 7075.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6367.0
+        "median_annual_wage_5": 58311.0,
+        "id": 7076.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6368.0
+        "median_annual_wage_5": 15804.0,
+        "id": 7077.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6369.0
+        "id": 7078.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6370.0
+        "id": 7079.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6371.0
+        "id": 7080.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6372.0
+        "median_annual_wage_5": 43551.0,
+        "id": 7081.0
+    },
+    {
+        "median_annual_wage_5": 53859.0,
+        "id": 7082.0
     },
     {
-        "median_annual_wage_5": 42293.0,
-        "id": 6373.0
+        "median_annual_wage_5": null,
+        "id": 7083.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6374.0
+        "id": 7084.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6375.0
+        "id": 7085.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6376.0
+        "id": 7086.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6377.0
+        "id": 7087.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6378.0
+        "id": 7088.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6379.0
+        "id": 7089.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6380.0
+        "id": 7090.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6381.0
+        "id": 7091.0
     },
     {
-        "median_annual_wage_5": 47005.0,
-        "id": 6382.0
+        "median_annual_wage_5": 37170.0,
+        "id": 7092.0
     },
     {
-        "median_annual_wage_5": 36990.0,
-        "id": 6383.0
+        "median_annual_wage_5": 38699.0,
+        "id": 7093.0
     },
     {
-        "median_annual_wage_5": 33408.0,
-        "id": 6384.0
+        "median_annual_wage_5": 32379.0,
+        "id": 7094.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6385.0
+        "id": 7095.0
     },
     {
-        "median_annual_wage_5": 49269.0,
-        "id": 6386.0
+        "median_annual_wage_5": null,
+        "id": 7096.0
     },
     {
-        "median_annual_wage_5": 43918.0,
-        "id": 6387.0
+        "median_annual_wage_5": 51315.0,
+        "id": 7097.0
     },
     {
-        "median_annual_wage_5": 32275.0,
-        "id": 6388.0
+        "median_annual_wage_5": 48277.0,
+        "id": 7098.0
     },
     {
-        "median_annual_wage_5": 16976.0,
-        "id": 6389.0
+        "median_annual_wage_5": 44395.0,
+        "id": 7099.0
     },
     {
-        "median_annual_wage_5": 41256.0,
-        "id": 6390.0
+        "median_annual_wage_5": 28182.0,
+        "id": 7100.0
     },
     {
-        "median_annual_wage_5": 33274.0,
-        "id": 6391.0
+        "median_annual_wage_5": 31497.0,
+        "id": 7101.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6392.0
+        "median_annual_wage_5": 34659.0,
+        "id": 7102.0
     },
     {
-        "median_annual_wage_5": 28822.0,
-        "id": 6393.0
+        "median_annual_wage_5": null,
+        "id": 7103.0
     },
     {
-        "median_annual_wage_5": 31530.0,
-        "id": 6394.0
+        "median_annual_wage_5": 27703.0,
+        "id": 7104.0
     },
     {
-        "median_annual_wage_5": 53539.0,
-        "id": 6395.0
+        "median_annual_wage_5": 39726.0,
+        "id": 7105.0
     },
     {
-        "median_annual_wage_5": 8869.0,
-        "id": 6396.0
+        "median_annual_wage_5": 56474.0,
+        "id": 7106.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6397.0
+        "median_annual_wage_5": 56480.0,
+        "id": 7107.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6398.0
+        "id": 7108.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6399.0
+        "id": 7109.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6400.0
+        "id": 7110.0
     },
     {
-        "median_annual_wage_5": 46416.0,
-        "id": 6401.0
+        "median_annual_wage_5": null,
+        "id": 7111.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6402.0
+        "id": 7112.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6403.0
+        "id": 7113.0
     },
     {
-        "median_annual_wage_5": 52544.0,
-        "id": 6404.0
+        "median_annual_wage_5": null,
+        "id": 7114.0
     },
     {
-        "median_annual_wage_5": 22225.0,
-        "id": 6405.0
+        "median_annual_wage_5": 51976.0,
+        "id": 7115.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6406.0
+        "id": 7116.0
     },
     {
-        "median_annual_wage_5": 35087.0,
-        "id": 6407.0
+        "median_annual_wage_5": null,
+        "id": 7117.0
     },
     {
-        "median_annual_wage_5": 45599.0,
-        "id": 6408.0
+        "median_annual_wage_5": 24624.0,
+        "id": 7118.0
     },
     {
-        "median_annual_wage_5": 37249.0,
-        "id": 6409.0
+        "median_annual_wage_5": null,
+        "id": 7119.0
     },
     {
-        "median_annual_wage_5": 30911.0,
-        "id": 6410.0
+        "median_annual_wage_5": null,
+        "id": 7120.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6411.0
+        "id": 7121.0
     },
     {
-        "median_annual_wage_5": 61281.0,
-        "id": 6412.0
+        "median_annual_wage_5": null,
+        "id": 7122.0
     },
     {
-        "median_annual_wage_5": 42964.0,
-        "id": 6413.0
+        "median_annual_wage_5": 38570.0,
+        "id": 7123.0
     },
     {
-        "median_annual_wage_5": 23954.0,
-        "id": 6414.0
+        "median_annual_wage_5": 48560.0,
+        "id": 7124.0
     },
     {
-        "median_annual_wage_5": 51888.0,
-        "id": 6415.0
+        "median_annual_wage_5": 40946.0,
+        "id": 7125.0
     },
     {
-        "median_annual_wage_5": 44082.0,
-        "id": 6416.0
+        "median_annual_wage_5": 25444.0,
+        "id": 7126.0
     },
     {
-        "median_annual_wage_5": 37937.0,
-        "id": 6417.0
+        "median_annual_wage_5": null,
+        "id": 7127.0
     },
     {
-        "median_annual_wage_5": 29800.0,
-        "id": 6418.0
+        "median_annual_wage_5": 66005.0,
+        "id": 7128.0
     },
     {
-        "median_annual_wage_5": 22075.0,
-        "id": 6419.0
+        "median_annual_wage_5": 50890.0,
+        "id": 7129.0
     },
     {
-        "median_annual_wage_5": 19905.0,
-        "id": 6420.0
+        "median_annual_wage_5": 37192.0,
+        "id": 7130.0
     },
     {
-        "median_annual_wage_5": 29329.0,
-        "id": 6421.0
+        "median_annual_wage_5": 57036.0,
+        "id": 7131.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6422.0
+        "median_annual_wage_5": 38488.0,
+        "id": 7132.0
     },
     {
-        "median_annual_wage_5": 43933.0,
-        "id": 6423.0
+        "median_annual_wage_5": 38617.0,
+        "id": 7133.0
     },
     {
-        "median_annual_wage_5": 7451.0,
-        "id": 6424.0
+        "median_annual_wage_5": 32467.0,
+        "id": 7134.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6425.0
+        "id": 7135.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6426.0
+        "median_annual_wage_5": 22141.0,
+        "id": 7136.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6427.0
+        "median_annual_wage_5": 30998.0,
+        "id": 7137.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6428.0
+        "id": 7138.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6429.0
+        "median_annual_wage_5": 51171.0,
+        "id": 7139.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6430.0
+        "median_annual_wage_5": 57857.0,
+        "id": 7140.0
     },
     {
-        "median_annual_wage_5": 55615.0,
-        "id": 6431.0
+        "median_annual_wage_5": null,
+        "id": 7141.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6432.0
+        "id": 7142.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6433.0
+        "id": 7143.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6434.0
+        "id": 7144.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6435.0
+        "id": 7145.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6436.0
+        "id": 7146.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6437.0
+        "median_annual_wage_5": 61134.0,
+        "id": 7147.0
     },
     {
-        "median_annual_wage_5": 57371.0,
-        "id": 6438.0
+        "median_annual_wage_5": null,
+        "id": 7148.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6439.0
+        "id": 7149.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6440.0
+        "id": 7150.0
     },
     {
-        "median_annual_wage_5": 34384.0,
-        "id": 6441.0
+        "median_annual_wage_5": null,
+        "id": 7151.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6442.0
+        "id": 7152.0
     },
     {
-        "median_annual_wage_5": 21477.0,
-        "id": 6443.0
+        "median_annual_wage_5": null,
+        "id": 7153.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6444.0
+        "id": 7154.0
     },
     {
-        "median_annual_wage_5": 18746.0,
-        "id": 6445.0
+        "median_annual_wage_5": null,
+        "id": 7155.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6446.0
+        "id": 7156.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6447.0
+        "id": 7157.0
     },
     {
-        "median_annual_wage_5": 26561.0,
-        "id": 6448.0
+        "median_annual_wage_5": null,
+        "id": 7158.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6449.0
+        "id": 7159.0
     },
     {
-        "median_annual_wage_5": 13350.0,
-        "id": 6450.0
+        "median_annual_wage_5": null,
+        "id": 7160.0
     },
     {
-        "median_annual_wage_5": 14630.0,
-        "id": 6451.0
+        "median_annual_wage_5": null,
+        "id": 7161.0
     },
     {
-        "median_annual_wage_5": 19668.0,
-        "id": 6452.0
+        "median_annual_wage_5": null,
+        "id": 7162.0
     },
     {
-        "median_annual_wage_5": 19798.0,
-        "id": 6453.0
+        "median_annual_wage_5": null,
+        "id": 7163.0
     },
     {
-        "median_annual_wage_5": 17667.0,
-        "id": 6454.0
+        "median_annual_wage_5": null,
+        "id": 7164.0
     },
     {
-        "median_annual_wage_5": 6783.0,
-        "id": 6455.0
+        "median_annual_wage_5": null,
+        "id": 7165.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6456.0
+        "id": 7166.0
     },
     {
-        "median_annual_wage_5": 75004.0,
-        "id": 6457.0
+        "median_annual_wage_5": null,
+        "id": 7167.0
     },
     {
-        "median_annual_wage_5": 4267.0,
-        "id": 6458.0
+        "median_annual_wage_5": null,
+        "id": 7168.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6459.0
+        "id": 7169.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6460.0
+        "id": 7170.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6461.0
+        "id": 7171.0
     },
     {
-        "median_annual_wage_5": 20593.0,
-        "id": 6462.0
+        "median_annual_wage_5": null,
+        "id": 7172.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6463.0
+        "id": 7173.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6464.0
+        "id": 7174.0
     },
     {
-        "median_annual_wage_5": 30986.0,
-        "id": 6465.0
+        "median_annual_wage_5": null,
+        "id": 7175.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6466.0
+        "id": 7176.0
     },
     {
-        "median_annual_wage_5": 30483.0,
-        "id": 6467.0
+        "median_annual_wage_5": 31028.0,
+        "id": 7177.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6468.0
+        "median_annual_wage_5": 33165.0,
+        "id": 7178.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6469.0
+        "median_annual_wage_5": 16637.0,
+        "id": 7179.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6470.0
+        "median_annual_wage_5": 12804.0,
+        "id": 7180.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6471.0
+        "id": 7181.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6472.0
+        "median_annual_wage_5": 64928.0,
+        "id": 7182.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6473.0
+        "id": 7183.0
     },
     {
-        "median_annual_wage_5": 21285.0,
-        "id": 6474.0
+        "median_annual_wage_5": 30131.0,
+        "id": 7184.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6475.0
+        "median_annual_wage_5": 16282.0,
+        "id": 7185.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6476.0
+        "median_annual_wage_5": 33706.0,
+        "id": 7186.0
     },
     {
-        "median_annual_wage_5": 25104.0,
-        "id": 6477.0
+        "median_annual_wage_5": 23897.0,
+        "id": 7187.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6478.0
+        "median_annual_wage_5": 10270.0,
+        "id": 7188.0
     },
     {
-        "median_annual_wage_5": 21656.0,
-        "id": 6479.0
+        "median_annual_wage_5": 15794.0,
+        "id": 7189.0
     },
     {
-        "median_annual_wage_5": 42835.0,
-        "id": 6480.0
+        "median_annual_wage_5": 10228.0,
+        "id": 7190.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6481.0
+        "id": 7191.0
     },
     {
-        "median_annual_wage_5": 22419.0,
-        "id": 6482.0
+        "median_annual_wage_5": 52704.0,
+        "id": 7192.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6483.0
+        "median_annual_wage_5": 23021.0,
+        "id": 7193.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6484.0
+        "id": 7194.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6485.0
+        "id": 7195.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6486.0
+        "median_annual_wage_5": 49107.0,
+        "id": 7196.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6487.0
+        "id": 7197.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6488.0
+        "id": 7198.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6489.0
+        "median_annual_wage_5": 7565.0,
+        "id": 7199.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6490.0
+        "id": 7200.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6491.0
+        "id": 7201.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6492.0
+        "id": 7202.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6493.0
+        "median_annual_wage_5": 33392.0,
+        "id": 7203.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6494.0
+        "median_annual_wage_5": 75307.0,
+        "id": 7204.0
     },
     {
-        "median_annual_wage_5": 12140.0,
-        "id": 6495.0
+        "median_annual_wage_5": 33489.0,
+        "id": 7205.0
     },
     {
-        "median_annual_wage_5": 41473.0,
-        "id": 6496.0
+        "median_annual_wage_5": 40600.0,
+        "id": 7206.0
     },
     {
-        "median_annual_wage_5": 33219.0,
-        "id": 6497.0
+        "median_annual_wage_5": 33302.0,
+        "id": 7207.0
     },
     {
-        "median_annual_wage_5": 20600.0,
-        "id": 6498.0
+        "median_annual_wage_5": 24550.0,
+        "id": 7208.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6499.0
+        "median_annual_wage_5": 38250.0,
+        "id": 7209.0
+    },
+    {
+        "median_annual_wage_5": 38844.0,
+        "id": 7210.0
     },
     {
-        "median_annual_wage_5": 65918.0,
-        "id": 6500.0
+        "median_annual_wage_5": 43939.0,
+        "id": 7211.0
     },
     {
-        "median_annual_wage_5": 47464.0,
-        "id": 6501.0
+        "median_annual_wage_5": 44180.0,
+        "id": 7212.0
     },
     {
-        "median_annual_wage_5": 50440.0,
-        "id": 6502.0
+        "median_annual_wage_5": 39373.0,
+        "id": 7213.0
     },
     {
-        "median_annual_wage_5": 34532.0,
-        "id": 6503.0
+        "median_annual_wage_5": null,
+        "id": 7214.0
     },
     {
-        "median_annual_wage_5": 31449.0,
-        "id": 6504.0
+        "median_annual_wage_5": 29363.0,
+        "id": 7215.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6505.0
+        "median_annual_wage_5": 25800.0,
+        "id": 7216.0
     },
     {
-        "median_annual_wage_5": 51236.0,
-        "id": 6506.0
+        "median_annual_wage_5": 34950.0,
+        "id": 7217.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6507.0
+        "median_annual_wage_5": 14120.0,
+        "id": 7218.0
     },
     {
-        "median_annual_wage_5": 23191.0,
-        "id": 6508.0
+        "median_annual_wage_5": 21047.0,
+        "id": 7219.0
     },
     {
-        "median_annual_wage_5": 16744.0,
-        "id": 6509.0
+        "median_annual_wage_5": 19233.0,
+        "id": 7220.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6510.0
+        "id": 7221.0
     },
     {
-        "median_annual_wage_5": 70990.0,
-        "id": 6511.0
+        "median_annual_wage_5": 59984.0,
+        "id": 7222.0
     },
     {
-        "median_annual_wage_5": 5637.0,
-        "id": 6512.0
+        "median_annual_wage_5": 47686.0,
+        "id": 7223.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6513.0
+        "id": 7224.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6514.0
+        "id": 7225.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6515.0
+        "id": 7226.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6516.0
+        "median_annual_wage_5": 30781.0,
+        "id": 7227.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6517.0
+        "median_annual_wage_5": 39912.0,
+        "id": 7228.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6518.0
+        "median_annual_wage_5": 24328.0,
+        "id": 7229.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6519.0
+        "id": 7230.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6520.0
+        "median_annual_wage_5": 40981.0,
+        "id": 7231.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6521.0
+        "median_annual_wage_5": 45452.0,
+        "id": 7232.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6522.0
+        "id": 7233.0
+    },
+    {
+        "median_annual_wage_5": 31851.0,
+        "id": 7234.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6523.0
+        "id": 7235.0
     },
     {
-        "median_annual_wage_5": 29698.0,
-        "id": 6524.0
+        "median_annual_wage_5": 39636.0,
+        "id": 7236.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6525.0
+        "median_annual_wage_5": 23250.0,
+        "id": 7237.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6526.0
+        "median_annual_wage_5": 26612.0,
+        "id": 7238.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6527.0
+        "median_annual_wage_5": 23085.0,
+        "id": 7239.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6528.0
+        "median_annual_wage_5": 23224.0,
+        "id": 7240.0
+    },
+    {
+        "median_annual_wage_5": 23469.0,
+        "id": 7241.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6529.0
+        "id": 7242.0
     },
     {
-        "median_annual_wage_5": 20294.0,
-        "id": 6530.0
+        "median_annual_wage_5": 85594.0,
+        "id": 7243.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6531.0
+        "id": 7244.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6532.0
+        "id": 7245.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6533.0
+        "id": 7246.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6534.0
+        "median_annual_wage_5": 55095.0,
+        "id": 7247.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6535.0
+        "median_annual_wage_5": 50789.0,
+        "id": 7248.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6536.0
+        "median_annual_wage_5": 20411.0,
+        "id": 7249.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6537.0
+        "id": 7250.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6538.0
+        "median_annual_wage_5": 59310.0,
+        "id": 7251.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6539.0
+        "median_annual_wage_5": 50808.0,
+        "id": 7252.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6540.0
+        "id": 7253.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6541.0
+        "median_annual_wage_5": 44193.0,
+        "id": 7254.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6542.0
+        "median_annual_wage_5": 33303.0,
+        "id": 7255.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6543.0
+        "median_annual_wage_5": 29828.0,
+        "id": 7256.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6544.0
+        "median_annual_wage_5": 26528.0,
+        "id": 7257.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6545.0
+        "median_annual_wage_5": 3488.0,
+        "id": 7258.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6546.0
+        "median_annual_wage_5": 12370.0,
+        "id": 7259.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6547.0
+        "id": 7260.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6548.0
+        "id": 7261.0
     },
     {
-        "median_annual_wage_5": 34026.0,
-        "id": 6549.0
+        "median_annual_wage_5": 45350.0,
+        "id": 7262.0
     },
     {
-        "median_annual_wage_5": 22802.0,
-        "id": 6550.0
+        "median_annual_wage_5": null,
+        "id": 7263.0
     },
     {
-        "median_annual_wage_5": 34019.0,
-        "id": 6551.0
+        "median_annual_wage_5": 15583.0,
+        "id": 7264.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6552.0
+        "id": 7265.0
     },
     {
-        "median_annual_wage_5": 46276.0,
-        "id": 6553.0
+        "median_annual_wage_5": null,
+        "id": 7266.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6554.0
+        "id": 7267.0
+    },
+    {
+        "median_annual_wage_5": 2415.0,
+        "id": 7268.0
     },
     {
-        "median_annual_wage_5": 16998.0,
-        "id": 6555.0
+        "median_annual_wage_5": 26944.0,
+        "id": 7269.0
     },
     {
-        "median_annual_wage_5": 26692.0,
-        "id": 6556.0
+        "median_annual_wage_5": 28893.0,
+        "id": 7270.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6557.0
+        "id": 7271.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6558.0
+        "id": 7272.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6559.0
+        "id": 7273.0
     },
     {
-        "median_annual_wage_5": 19740.0,
-        "id": 6560.0
+        "median_annual_wage_5": null,
+        "id": 7274.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6561.0
+        "id": 7275.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6562.0
+        "id": 7276.0
     },
     {
-        "median_annual_wage_5": 2604.0,
-        "id": 6563.0
+        "median_annual_wage_5": 12804.0,
+        "id": 7277.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6564.0
+        "id": 7278.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6565.0
+        "id": 7279.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6566.0
+        "id": 7280.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6567.0
+        "id": 7281.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6568.0
+        "id": 7282.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6569.0
+        "id": 7283.0
+    },
+    {
+        "median_annual_wage_5": 23105.0,
+        "id": 7284.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6570.0
+        "id": 7285.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6571.0
+        "id": 7286.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6572.0
+        "id": 7287.0
     },
     {
-        "median_annual_wage_5": 17333.0,
-        "id": 6573.0
+        "median_annual_wage_5": 50800.0,
+        "id": 7288.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6574.0
+        "median_annual_wage_5": 26876.0,
+        "id": 7289.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6575.0
+        "median_annual_wage_5": 27245.0,
+        "id": 7290.0
+    },
+    {
+        "median_annual_wage_5": 14211.0,
+        "id": 7291.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6576.0
+        "id": 7292.0
+    },
+    {
+        "median_annual_wage_5": 34725.0,
+        "id": 7293.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6577.0
+        "id": 7294.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6578.0
+        "id": 7295.0
     },
     {
-        "median_annual_wage_5": 39508.0,
-        "id": 6579.0
+        "median_annual_wage_5": 40977.0,
+        "id": 7296.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6580.0
+        "id": 7297.0
     },
     {
-        "median_annual_wage_5": 21155.0,
-        "id": 6581.0
+        "median_annual_wage_5": 21973.0,
+        "id": 7298.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6582.0
+        "median_annual_wage_5": 25317.0,
+        "id": 7299.0
+    },
+    {
+        "median_annual_wage_5": 9662.0,
+        "id": 7300.0
     },
     {
-        "median_annual_wage_5": 15179.0,
-        "id": 6583.0
+        "median_annual_wage_5": 10151.0,
+        "id": 7301.0
     },
     {
+        "median_annual_wage_5": 16756.0,
+        "id": 7302.0
+    },
+    {
+        "median_annual_wage_5": 25889.0,
+        "id": 7303.0
+    },
+    {
         "median_annual_wage_5": null,
-        "id": 6584.0
+        "id": 7304.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6585.0
+        "id": 7305.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6586.0
+        "id": 7306.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6587.0
+        "id": 7307.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6588.0
+        "id": 7308.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6589.0
+        "id": 7309.0
     },
     {
-        "median_annual_wage_5": 20247.0,
-        "id": 6590.0
+        "median_annual_wage_5": null,
+        "id": 7310.0
+    },
+    {
+        "median_annual_wage_5": 5916.0,
+        "id": 7311.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6591.0
+        "id": 7312.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6592.0
+        "id": 7313.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6593.0
+        "id": 7314.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6594.0
+        "id": 7315.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6595.0
+        "id": 7316.0
+    },
+    {
+        "median_annual_wage_5": 39097.0,
+        "id": 7317.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6596.0
+        "id": 7318.0
+    },
+    {
+        "median_annual_wage_5": 14210.0,
+        "id": 7319.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6597.0
+        "id": 7320.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6598.0
+        "id": 7321.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6599.0
+        "id": 7322.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6600.0
+        "id": 7323.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6601.0
+        "id": 7324.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6602.0
+        "id": 7325.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6603.0
+        "id": 7326.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6604.0
+        "id": 7327.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6605.0
+        "id": 7328.0
     },
     {
-        "median_annual_wage_5": 24686.0,
-        "id": 6606.0
+        "median_annual_wage_5": null,
+        "id": 7329.0
     },
     {
-        "median_annual_wage_5": 27616.0,
-        "id": 6607.0
+        "median_annual_wage_5": null,
+        "id": 7330.0
     },
     {
-        "median_annual_wage_5": 17605.0,
-        "id": 6608.0
+        "median_annual_wage_5": null,
+        "id": 7331.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6609.0
+        "id": 7332.0
     },
     {
-        "median_annual_wage_5": 42879.0,
-        "id": 6610.0
+        "median_annual_wage_5": null,
+        "id": 7333.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6611.0
+        "id": 7334.0
     },
     {
-        "median_annual_wage_5": 20973.0,
-        "id": 6612.0
+        "median_annual_wage_5": 14598.0,
+        "id": 7335.0
     },
     {
-        "median_annual_wage_5": 22047.0,
-        "id": 6613.0
+        "median_annual_wage_5": null,
+        "id": 7336.0
     },
     {
-        "median_annual_wage_5": 19680.0,
-        "id": 6614.0
+        "median_annual_wage_5": 33717.0,
+        "id": 7337.0
     },
     {
-        "median_annual_wage_5": 32479.0,
-        "id": 6615.0
+        "median_annual_wage_5": 55884.0,
+        "id": 7338.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6616.0
+        "id": 7339.0
     },
     {
-        "median_annual_wage_5": 27176.0,
-        "id": 6617.0
+        "median_annual_wage_5": 31179.0,
+        "id": 7340.0
     },
     {
-        "median_annual_wage_5": 27394.0,
-        "id": 6618.0
+        "median_annual_wage_5": 34732.0,
+        "id": 7341.0
     },
     {
+        "median_annual_wage_5": 18959.0,
+        "id": 7342.0
+    },
+    {
+        "median_annual_wage_5": 20954.0,
+        "id": 7343.0
+    },
+    {
         "median_annual_wage_5": null,
-        "id": 6619.0
+        "id": 7344.0
     },
     {
-        "median_annual_wage_5": 48260.0,
-        "id": 6620.0
+        "median_annual_wage_5": 15633.0,
+        "id": 7345.0
     },
     {
-        "median_annual_wage_5": 9356.0,
-        "id": 6621.0
+        "median_annual_wage_5": null,
+        "id": 7346.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6622.0
+        "id": 7347.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6623.0
+        "id": 7348.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6624.0
+        "id": 7349.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6625.0
+        "id": 7350.0
+    },
+    {
+        "median_annual_wage_5": 13077.0,
+        "id": 7351.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6626.0
+        "id": 7352.0
+    },
+    {
+        "median_annual_wage_5": 48946.0,
+        "id": 7353.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6627.0
+        "id": 7354.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6628.0
+        "id": 7355.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6629.0
+        "id": 7356.0
+    },
+    {
+        "median_annual_wage_5": 5057.0,
+        "id": 7357.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6630.0
+        "id": 7358.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6631.0
+        "id": 7359.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6632.0
+        "id": 7360.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6633.0
+        "id": 7361.0
     },
     {
-        "median_annual_wage_5": 20211.0,
-        "id": 6634.0
+        "median_annual_wage_5": null,
+        "id": 7362.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6635.0
+        "id": 7363.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6636.0
+        "id": 7364.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6637.0
+        "id": 7365.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6638.0
+        "id": 7366.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6639.0
+        "id": 7367.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6640.0
+        "id": 7368.0
     },
     {
-        "median_annual_wage_5": 18603.0,
-        "id": 6641.0
+        "median_annual_wage_5": null,
+        "id": 7369.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6642.0
+        "id": 7370.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6643.0
+        "id": 7371.0
+    },
+    {
+        "median_annual_wage_5": 38564.0,
+        "id": 7372.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6644.0
+        "id": 7373.0
+    },
+    {
+        "median_annual_wage_5": 23248.0,
+        "id": 7374.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6645.0
+        "id": 7375.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6646.0
+        "id": 7376.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6647.0
+        "id": 7377.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6648.0
+        "id": 7378.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6649.0
+        "id": 7379.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6650.0
+        "id": 7380.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6651.0
+        "id": 7381.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6652.0
+        "id": 7382.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6653.0
+        "id": 7383.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6654.0
+        "id": 7384.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6655.0
+        "id": 7385.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6656.0
+        "id": 7386.0
     },
     {
-        "median_annual_wage_5": 35195.0,
-        "id": 6657.0
+        "median_annual_wage_5": 23574.0,
+        "id": 7387.0
     },
     {
-        "median_annual_wage_5": 16499.0,
-        "id": 6658.0
+        "median_annual_wage_5": 30356.0,
+        "id": 7388.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6659.0
+        "median_annual_wage_5": 22375.0,
+        "id": 7389.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6660.0
+        "id": 7390.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6661.0
+        "median_annual_wage_5": 30315.0,
+        "id": 7391.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6662.0
+        "median_annual_wage_5": 43938.0,
+        "id": 7392.0
     },
     {
-        "median_annual_wage_5": 28107.0,
-        "id": 6663.0
+        "median_annual_wage_5": 20375.0,
+        "id": 7393.0
     },
     {
-        "median_annual_wage_5": 28523.0,
-        "id": 6664.0
+        "median_annual_wage_5": 28213.0,
+        "id": 7394.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6665.0
+        "id": 7395.0
     },
     {
-        "median_annual_wage_5": 50394.0,
-        "id": 6666.0
+        "median_annual_wage_5": 19108.0,
+        "id": 7396.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6667.0
+        "median_annual_wage_5": 22428.0,
+        "id": 7397.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6668.0
+        "median_annual_wage_5": 26135.0,
+        "id": 7398.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6669.0
+        "median_annual_wage_5": 14917.0,
+        "id": 7399.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6670.0
+        "median_annual_wage_5": 20624.0,
+        "id": 7400.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6671.0
+        "median_annual_wage_5": 24948.0,
+        "id": 7401.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6672.0
+        "id": 7402.0
+    },
+    {
+        "median_annual_wage_5": 69095.0,
+        "id": 7403.0
+    },
+    {
+        "median_annual_wage_5": 52065.0,
+        "id": 7404.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6673.0
+        "id": 7405.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6674.0
+        "id": 7406.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6675.0
+        "id": 7407.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6676.0
+        "id": 7408.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6677.0
+        "id": 7409.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6678.0
+        "id": 7410.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6679.0
+        "id": 7411.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6680.0
+        "id": 7412.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6681.0
+        "id": 7413.0
     },
     {
-        "median_annual_wage_5": 52458.0,
-        "id": 6682.0
+        "median_annual_wage_5": null,
+        "id": 7414.0
     },
     {
-        "median_annual_wage_5": 23888.0,
-        "id": 6683.0
+        "median_annual_wage_5": 18985.0,
+        "id": 7415.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6684.0
+        "id": 7416.0
     },
     {
-        "median_annual_wage_5": 33438.0,
-        "id": 6685.0
+        "median_annual_wage_5": 57261.0,
+        "id": 7417.0
     },
     {
-        "median_annual_wage_5": 37228.0,
-        "id": 6686.0
+        "median_annual_wage_5": null,
+        "id": 7418.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6687.0
+        "id": 7419.0
     },
     {
-        "median_annual_wage_5": 28821.0,
-        "id": 6688.0
+        "median_annual_wage_5": null,
+        "id": 7420.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6689.0
+        "id": 7421.0
     },
     {
-        "median_annual_wage_5": 15828.0,
-        "id": 6690.0
+        "median_annual_wage_5": null,
+        "id": 7422.0
     },
     {
-        "median_annual_wage_5": 32660.0,
-        "id": 6691.0
+        "median_annual_wage_5": null,
+        "id": 7423.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6692.0
+        "id": 7424.0
     },
     {
-        "median_annual_wage_5": 21711.0,
-        "id": 6693.0
+        "median_annual_wage_5": null,
+        "id": 7425.0
     },
     {
-        "median_annual_wage_5": 12750.0,
-        "id": 6694.0
+        "median_annual_wage_5": null,
+        "id": 7426.0
     },
     {
-        "median_annual_wage_5": 44592.0,
-        "id": 6695.0
+        "median_annual_wage_5": null,
+        "id": 7427.0
     },
     {
-        "median_annual_wage_5": 3043.0,
-        "id": 6696.0
+        "median_annual_wage_5": null,
+        "id": 7428.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6697.0
+        "id": 7429.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6698.0
+        "median_annual_wage_5": 22893.0,
+        "id": 7430.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6699.0
+        "id": 7431.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6700.0
+        "id": 7432.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6701.0
+        "median_annual_wage_5": 20669.0,
+        "id": 7433.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6702.0
+        "id": 7434.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6703.0
+        "id": 7435.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6704.0
+        "median_annual_wage_5": 12866.0,
+        "id": 7436.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6705.0
+        "id": 7437.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6706.0
+        "median_annual_wage_5": 25573.0,
+        "id": 7438.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6707.0
+        "median_annual_wage_5": 28457.0,
+        "id": 7439.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6708.0
+        "median_annual_wage_5": 27741.0,
+        "id": 7440.0
     },
     {
-        "median_annual_wage_5": 67204.0,
-        "id": 6709.0
+        "median_annual_wage_5": 15791.0,
+        "id": 7441.0
     },
     {
-        "median_annual_wage_5": 107979.0,
-        "id": 6710.0
+        "median_annual_wage_5": 7659.0,
+        "id": 7442.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6711.0
+        "median_annual_wage_5": 20555.0,
+        "id": 7443.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6712.0
+        "median_annual_wage_5": 15419.0,
+        "id": 7444.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6713.0
+        "median_annual_wage_5": 33684.0,
+        "id": 7445.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6714.0
+        "id": 7446.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6715.0
+        "id": 7447.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6716.0
+        "id": 7448.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6717.0
+        "id": 7449.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6718.0
+        "id": 7450.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6719.0
+        "id": 7451.0
     },
     {
-        "median_annual_wage_5": 99654.0,
-        "id": 6720.0
+        "median_annual_wage_5": 16511.0,
+        "id": 7452.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6721.0
+        "id": 7453.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6722.0
+        "id": 7454.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6723.0
+        "id": 7455.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6724.0
+        "id": 7456.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6725.0
+        "median_annual_wage_5": 11878.0,
+        "id": 7457.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6726.0
+        "id": 7458.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6727.0
+        "median_annual_wage_5": 6154.0,
+        "id": 7459.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6728.0
+        "median_annual_wage_5": 25999.0,
+        "id": 7460.0
     },
     {
-        "median_annual_wage_5": 69456.0,
-        "id": 6729.0
+        "median_annual_wage_5": 35395.0,
+        "id": 7461.0
     },
     {
-        "median_annual_wage_5": 52289.0,
-        "id": 6730.0
+        "median_annual_wage_5": null,
+        "id": 7462.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6731.0
+        "median_annual_wage_5": 24052.0,
+        "id": 7463.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6732.0
+        "id": 7464.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6733.0
+        "id": 7465.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6734.0
+        "id": 7466.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6735.0
+        "id": 7467.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6736.0
+        "id": 7468.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6737.0
+        "median_annual_wage_5": 39574.0,
+        "id": 7469.0
     },
     {
-        "median_annual_wage_5": 56992.0,
-        "id": 6738.0
+        "median_annual_wage_5": 27768.0,
+        "id": 7470.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6739.0
+        "median_annual_wage_5": 27022.0,
+        "id": 7471.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6740.0
+        "id": 7472.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6741.0
+        "id": 7473.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6742.0
+        "median_annual_wage_5": 29410.0,
+        "id": 7474.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6743.0
+        "id": 7475.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6744.0
+        "median_annual_wage_5": 38240.0,
+        "id": 7476.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6745.0
+        "id": 7477.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6746.0
+        "median_annual_wage_5": 29374.0,
+        "id": 7478.0
     },
     {
-        "median_annual_wage_5": 67426.0,
-        "id": 6747.0
+        "median_annual_wage_5": 22765.0,
+        "id": 7479.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6748.0
+        "median_annual_wage_5": 30426.0,
+        "id": 7480.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6749.0
+        "id": 7481.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6750.0
+        "median_annual_wage_5": 22423.0,
+        "id": 7482.0
     },
     {
-        "median_annual_wage_5": 69753.0,
-        "id": 6751.0
+        "median_annual_wage_5": 10107.0,
+        "id": 7483.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6752.0
+        "id": 7484.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6753.0
+        "median_annual_wage_5": 57114.0,
+        "id": 7485.0
     },
     {
+        "median_annual_wage_5": 49663.0,
+        "id": 7486.0
+    },
+    {
         "median_annual_wage_5": null,
-        "id": 6754.0
+        "id": 7487.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6755.0
+        "id": 7488.0
     },
     {
-        "median_annual_wage_5": 68997.0,
-        "id": 6756.0
+        "median_annual_wage_5": null,
+        "id": 7489.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6757.0
+        "id": 7490.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6758.0
+        "id": 7491.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6759.0
+        "id": 7492.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6760.0
+        "id": 7493.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6761.0
+        "id": 7494.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6762.0
+        "id": 7495.0
     },
     {
-        "median_annual_wage_5": 52396.0,
-        "id": 6763.0
+        "median_annual_wage_5": null,
+        "id": 7496.0
     },
     {
-        "median_annual_wage_5": 49018.0,
-        "id": 6764.0
+        "median_annual_wage_5": null,
+        "id": 7497.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6765.0
+        "id": 7498.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6766.0
+        "id": 7499.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6767.0
+        "id": 7500.0
     },
     {
-        "median_annual_wage_5": 62900.0,
-        "id": 6768.0
+        "median_annual_wage_5": 21142.0,
+        "id": 7501.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6769.0
+        "id": 7502.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6770.0
+        "id": 7503.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6771.0
+        "median_annual_wage_5": 18890.0,
+        "id": 7504.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6772.0
+        "id": 7505.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6773.0
+        "id": 7506.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6774.0
+        "id": 7507.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6775.0
+        "id": 7508.0
     },
     {
-        "median_annual_wage_5": 46331.0,
-        "id": 6776.0
+        "median_annual_wage_5": 26980.0,
+        "id": 7509.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6777.0
+        "id": 7510.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6778.0
+        "id": 7511.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6779.0
+        "id": 7512.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6780.0
+        "median_annual_wage_5": 25068.0,
+        "id": 7513.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6781.0
+        "id": 7514.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6782.0
+        "id": 7515.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6783.0
+        "median_annual_wage_5": 33244.0,
+        "id": 7516.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6784.0
+        "id": 7517.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6785.0
+        "median_annual_wage_5": 27438.0,
+        "id": 7518.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6786.0
+        "median_annual_wage_5": 20204.0,
+        "id": 7519.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6787.0
+        "id": 7520.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6788.0
+        "median_annual_wage_5": 35788.0,
+        "id": 7521.0
     },
     {
-        "median_annual_wage_5": null,
-        "id": 6789.0
+        "median_annual_wage_5": 40217.0,
+        "id": 7522.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6790.0
+        "id": 7523.0
     },
     {
+        "median_annual_wage_5": 36419.0,
+        "id": 7524.0
+    },
+    {
         "median_annual_wage_5": null,
-        "id": 6791.0
+        "id": 7525.0
+    },
+    {
+        "median_annual_wage_5": 17236.0,
+        "id": 7526.0
     },
     {
-        "median_annual_wage_5": 63198.0,
-        "id": 6792.0
+        "median_annual_wage_5": 23835.0,
+        "id": 7527.0
     },
     {
-        "median_annual_wage_5": 54642.0,
-        "id": 6793.0
+        "median_annual_wage_5": 24434.0,
+        "id": 7528.0
+    },
+    {
+        "median_annual_wage_5": 16585.0,
+        "id": 7529.0
+    },
+    {
+        "median_annual_wage_5": 22024.0,
+        "id": 7530.0
+    },
+    {
+        "median_annual_wage_5": 11540.0,
+        "id": 7531.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7532.0
+    },
+    {
+        "median_annual_wage_5": 51765.0,
+        "id": 7533.0
+    },
+    {
+        "median_annual_wage_5": 15263.0,
+        "id": 7534.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7535.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7536.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7537.0
+    },
+    {
+        "median_annual_wage_5": 19139.0,
+        "id": 7538.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7539.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7540.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7541.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7542.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7543.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7544.0
+    },
+    {
+        "median_annual_wage_5": 23922.0,
+        "id": 7545.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7546.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7547.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7548.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7549.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7550.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7551.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7552.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7553.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7554.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7555.0
+    },
+    {
+        "median_annual_wage_5": 65092.0,
+        "id": 7556.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7557.0
+    },
+    {
+        "median_annual_wage_5": 73873.0,
+        "id": 7558.0
+    },
+    {
+        "median_annual_wage_5": 109142.0,
+        "id": 7559.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7560.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7561.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7562.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7563.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7564.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7565.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7566.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7567.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7568.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7569.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7570.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7571.0
+    },
+    {
+        "median_annual_wage_5": 96658.0,
+        "id": 7572.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7573.0
+    },
+    {
+        "median_annual_wage_5": 97266.0,
+        "id": 7574.0
+    },
+    {
+        "median_annual_wage_5": 36690.0,
+        "id": 7575.0
+    },
+    {
+        "median_annual_wage_5": 116729.0,
+        "id": 7576.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7577.0
+    },
+    {
+        "median_annual_wage_5": 102496.0,
+        "id": 7578.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7579.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7580.0
+    },
+    {
+        "median_annual_wage_5": 75377.0,
+        "id": 7581.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7582.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7583.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7584.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7585.0
+    },
+    {
+        "median_annual_wage_5": 79126.0,
+        "id": 7586.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7587.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7588.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7589.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7590.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7591.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7592.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7593.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7594.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7595.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7596.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7597.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7598.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7599.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7600.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7601.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7602.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7603.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7604.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7605.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7606.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7607.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7608.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7609.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7610.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7611.0
+    },
+    {
+        "median_annual_wage_5": 69346.0,
+        "id": 7612.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7613.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7614.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7615.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7616.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7617.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7618.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7619.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7620.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7621.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7622.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7623.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7624.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7625.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7626.0
+    },
+    {
+        "median_annual_wage_5": 68630.0,
+        "id": 7627.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7628.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7629.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7630.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7631.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7632.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7633.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7634.0
+    },
+    {
+        "median_annual_wage_5": 79012.0,
+        "id": 7635.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7636.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7637.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7638.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7639.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7640.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7641.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7642.0
+    },
+    {
+        "median_annual_wage_5": 89590.0,
+        "id": 7643.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7644.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7645.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7646.0
+    },
+    {
+        "median_annual_wage_5": 83205.0,
+        "id": 7647.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7648.0
+    },
+    {
+        "median_annual_wage_5": 63754.0,
+        "id": 7649.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7650.0
+    },
+    {
+        "median_annual_wage_5": 71971.0,
+        "id": 7651.0
+    },
+    {
+        "median_annual_wage_5": 56901.0,
+        "id": 7652.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7653.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7654.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7655.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7656.0
+    },
+    {
+        "median_annual_wage_5": 70344.0,
+        "id": 7657.0
+    },
+    {
+        "median_annual_wage_5": 70518.0,
+        "id": 7658.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7659.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7660.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7661.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7662.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7663.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7664.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7665.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7666.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7667.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7668.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7669.0
+    },
+    {
+        "median_annual_wage_5": 70647.0,
+        "id": 7670.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7671.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7672.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7673.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7674.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7675.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7676.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7677.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7678.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7679.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7680.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7681.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7682.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7683.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7684.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7685.0
+    },
+    {
+        "median_annual_wage_5": 65030.0,
+        "id": 7686.0
+    },
+    {
+        "median_annual_wage_5": 46518.0,
+        "id": 7687.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7688.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7689.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7690.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7691.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7692.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7693.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7694.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7695.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7696.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7697.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7698.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7699.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7700.0
+    },
+    {
+        "median_annual_wage_5": 71719.0,
+        "id": 7701.0
+    },
+    {
+        "median_annual_wage_5": 54769.0,
+        "id": 7702.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7703.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7704.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7705.0
+    },
+    {
+        "median_annual_wage_5": null,
+        "id": 7706.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6794.0
+        "id": 7707.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6795.0
+        "id": 7708.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6796.0
+        "id": 7709.0
     },
     {
         "median_annual_wage_5": null,
-        "id": 6797.0
+        "id": 7710.0
     }
 ]
