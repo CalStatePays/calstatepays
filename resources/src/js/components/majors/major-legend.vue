@@ -4,7 +4,7 @@
                 <span class="legend-mobile">
                     <div class="legend-green m-0">
                         <i class="fa fa-star" aria-hidden="true"></i>
-                    </div><p class="ml-4 mt-1">Post Bacc Degree</p>
+                    </div><p class="ml-4 mt-1">Graduate Degree</p>
                 </span>
                 <span class="legend-mobile">
                     <div class="legend-gold m-0">

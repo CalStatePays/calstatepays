@@ -10,10 +10,10 @@
 					You have the option of either filtering out majors by
 					<span class="font-weight-bold">discipline</span> or choosing the
 					<span class="font-weight-bold">major</span>
-					which resonates the most with you.
+					you want to see.
 				</p>
 				<p class="lead pl-md-5 pr-md-5">
-					<span class="font-weight-bold">Please Note:</span> Some majors might not have any data available at the moment.
+					<span class="font-weight-bold">Please Note:</span> Some majors might not have any data for some industries, as few CSU students work in that industry.
 					For more information on how we gathered the data, please read the
 					<router-link to="/faq" class="font-weight-bold">FAQ</router-link>.
 				</p>
@@ -24,10 +24,10 @@
 						<h3 class="csu-card__title">{{industryMajor}}</h3>
 					</div>
 					<div v-if="industriesByMajor.length > 0" class="col-12">
-						<p class="h6">Employment 5 Years After Exit</p>
+						<p class="h6">Employment 5 Years After Leaving Higher Education</p>
 					</div>
 					<div v-if="industriesByMajor.length > 0" class="col-sm-12 col-md-4 offset-md-3">
-						<span class="IndustryLegend__LegendPercentage"></span>Percentage of Students Employed
+						<span class="IndustryLegend__LegendPercentage"></span>Percentage of Students Employed in Industry
 					</div>
 					<div v-if="industriesByMajor.length > 0" class="col-sm-12 col-md-5">
 						<span class="IndustryLegend__LegendSalary"></span>Average Earnings
@@ -58,7 +58,7 @@
 									/>
 								</div>
 								<div class="col-2 pl-0">
-									<p class="IndustryProgressBarWrapper__PercentageText">{{industry.percentage}}%</p>
+									<p class="IndustryProgressBarWrapper__PercentageText">{{formatPercentage(industry.percentage)}}%</p>
 								</div>
 							</div>
 							<div class="row py-2">
@@ -91,6 +91,10 @@ export default {
 			let hundreds = dollarAmount.substr(-3, 3);
 			let thousands = dollarAmount.slice(0, -3);
 			return thousands + "," + hundreds;
+		},
+		formatPercentages(value) {
+			let finalPercentage = value.toString();
+			return finalPercentage.slice(0, -1);
 		}
 	},
 	computed: {

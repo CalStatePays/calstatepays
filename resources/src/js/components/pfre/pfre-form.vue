@@ -39,7 +39,7 @@
 					class="form-group font-weight-bold"
 					for="education"
 					v-bind:style="[this.submitted && !this.form.education ? errorLabel : '']"
-				>Select an Education Level</label>
+				>How You Entered the CSU</label>
 				<div class="row">
 					<div class="col-sm-6 col-lg-12">
 						<button
@@ -62,7 +62,7 @@
 					class="font-weight-bold"
 					for="earnings"
 					v-bind:style="[this.submitted && this.form.earnings === null ? errorLabel : '']"
-				>Estimated Annual Earnings In School</label>
+				>Estimated Annual Earnings In While Attending the CSU</label>
 				<v-select
 					label="earn"
 					aria-label="Estimated Annual Earnings In School"

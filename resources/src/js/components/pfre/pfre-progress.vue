@@ -52,7 +52,7 @@
 				<hr>
 				<div class="row">
 					<div class="col-12">
-						<h4 class="pfre-info__title">Annual Financial Return on Your Education</h4>
+						<h4 class="pfre-info__title">Annual Personal Financial Return on Your Education</h4>
 						<p v-if="pfreData.returnOnInvestment != 'No data.'" class="pfre-info__percentage">
 							{{pfreData.returnOnInvestment}}
 						</p>
@@ -61,7 +61,7 @@
 						</p>
 						<p class="pfre-info__infoCopy">
 							The PFRE is your Personal Financial Return on Education for completing a Bachelor's
-							Degree from CSUs in the major you chose. This number is like interest rate, so a higher
+							Degree from the CSUs for the major you chose. This number is like interest rate, so a higher
 							PFRE means you are getting a better deal.
 						</p>
 					</div>

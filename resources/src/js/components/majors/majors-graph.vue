@@ -1,7 +1,7 @@
 <template>
 	<figure>
 			<h3 class="sr-only" v-if='this.educationLevel === "allDegrees"'>All Degrees Level Data for {{ majorTitle }}</h3>
-			<h3 class="sr-only" v-else-if='this.educationLevel == "postBacc"'>Post Bacc Level Data for {{ majorTitle }}</h3>
+			<h3 class="sr-only" v-else-if='this.educationLevel == "postBacc"'>Graduate Degree Level Data for {{ majorTitle }}</h3>
 			<h3 class="sr-only" v-else-if='this.educationLevel == "bachelors"'>Bachelors Level Data for {{ majorTitle }}</h3>
 			<h3 class="sr-only" v-else-if='this.educationLevel == "someCollege"'>Some College Level Data for {{ majorTitle }}</h3>
 		<chart :options="polar" :aria-label='"Line Graph for " + majorTitle'></chart>
@@ -106,7 +106,7 @@ export default {
 			return title;
 		},
 		toolTipTitles3() {
-			let title = "Post Bacc";
+			let title = "Graduate Degree";
 			if (this.educationLevel !== "allDegrees") {
 				title = "75th Percentile";
 			}

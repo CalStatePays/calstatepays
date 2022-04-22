@@ -76,7 +76,7 @@ export default {
 			return title;
 		},
 		toolTipTitles3() {
-			let title = "Post Bacc";
+			let title = "Graduate Degree";
 			if (this.educationLevel !== "allDegrees") {
 				title = "75th Percentile";
 			}

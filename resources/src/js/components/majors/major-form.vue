@@ -91,7 +91,7 @@
 							class="major-btn_icon"
 							v-bind:class="{'fa fa-check': this.educationLevel(this.index) == 'postBacc', '':this.educationLevel(this.index) != 'postBacc'}"
 						></i>
-						Post Bacc
+						Graduate Degree
 					</button>
 					<button
 						class="btn btn-sm major-btn_bachelors"

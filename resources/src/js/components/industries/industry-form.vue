@@ -61,7 +61,7 @@
 					<p class="text-center h5 majors-header my-5-md my-4">Select a Degree Level</p>
 					<button class="btn btn-sm major-btn_postBacc" :id="'postBacc-' + form.cardIndex" @click.prevent="toggleIndustryEducationLevel('post_bacc')" >
 						<i class= "major-btn_icon" v-bind:class="{'fa fa-check': industryEducationLevel == 'post_bacc', '':industryEducationLevel != 'post_bacc'}" ></i>
-						Post Bacc
+						Graduate Degree
 					</button>
 					<button class="btn btn-sm major-btn_bachelors" :id="'bachelors-' + form.cardIndex" @click.prevent="toggleIndustryEducationLevel('bachelors')">
 						<i class="major-btn_icon" v-bind:class="{'fa fa-check': industryEducationLevel == 'bachelors', '':industryEducationLevel != 'bachelors'}" ></i>
