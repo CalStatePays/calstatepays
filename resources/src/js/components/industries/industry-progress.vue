@@ -58,7 +58,7 @@
 									/>
 								</div>
 								<div class="col-2 pl-0">
-									<p class="IndustryProgressBarWrapper__PercentageText">{{formatPercentage(industry.percentage)}}%</p>
+									<p class="IndustryProgressBarWrapper__PercentageText">{{formatPercentages(industry.percentage)}}%</p>
 								</div>
 							</div>
 							<div class="row py-2">
@@ -87,14 +87,20 @@ import { mapGetters } from "vuex";
 export default {
 	methods: {
 		formatDollars(input) {
-			let dollarAmount = input.toString();
-			let hundreds = dollarAmount.substr(-3, 3);
-			let thousands = dollarAmount.slice(0, -3);
-			return thousands + "," + hundreds;
+			if (input) {
+				let dollarAmount = input.toString();
+				let hundreds = dollarAmount.substr(-3, 3);
+				let thousands = dollarAmount.slice(0, -3);
+				return thousands + "," + hundreds;
+			}
+			return input;
 		},
 		formatPercentages(value) {
-			let finalPercentage = value.toString();
-			return finalPercentage.slice(0, -1);
+			if (value) {
+				let finalPercentage = value.toString();
+				return finalPercentage.slice(0, -1);
+			}
+			return value;
 		}
 	},
 	computed: {

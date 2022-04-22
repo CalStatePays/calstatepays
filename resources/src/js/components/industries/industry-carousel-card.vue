@@ -13,8 +13,11 @@ export default {
 
   methods: {
     formatPercentages(value) {
-      let finalPercentage = value.toString();
-      return finalPercentage.slice(0,-1);
+      if (value) {
+        let finalPercentage = value.toString();
+        return finalPercentage.slice(0,-1);
+      }
+      return value;
     }
   }
 
