@@ -61,7 +61,7 @@
 						</p>
 						<p class="pfre-info__infoCopy">
 							The PFRE is your Personal Financial Return on Education for completing a Bachelor's
-							Degree from the CSUs for the major you chose. This number is like interest rate, so a higher
+							Degree from the CSUs for the major you chose. This number is like an interest rate, so a higher
 							PFRE means you are getting a better deal.
 						</p>
 					</div>

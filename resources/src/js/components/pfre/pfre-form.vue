@@ -62,7 +62,7 @@
 					class="font-weight-bold"
 					for="earnings"
 					v-bind:style="[this.submitted && this.form.earnings === null ? errorLabel : '']"
-				>Estimated Annual Earnings In While Attending the CSU</label>
+				>Estimated Annual Earnings While Attending the CSU</label>
 				<v-select
 					label="earn"
 					aria-label="Estimated Annual Earnings In School"
