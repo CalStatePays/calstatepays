@@ -1,20 +1,20 @@
 [
     {
-        "hegis_codes": 121,
-        "major": "Pre-Nursing & Nursing RN-BS",
+        "hegis_codes": 12032,
+        "major": "Nursing",
         "campus": 0,
-        "hegis_category_id": 0,
+        "hegis_category_id": 12,
         "id": 1
     },
     {
-        "hegis_codes": 1011,
+        "hegis_codes": 1091,
         "major": "Agriculture/Agricultural Science & Horticulture",
         "campus": 0,
         "hegis_category_id": 1,
         "id": 2
     },
     {
-        "hegis_codes": 1041,
+        "hegis_codes": 1043,
         "major": "Animal Science/Animal Health Science",
         "campus": 0,
         "hegis_category_id": 1,
@@ -28,14 +28,14 @@
         "id": 4
     },
     {
-        "hegis_codes": 1130,
+        "hegis_codes": 1131,
         "major": "Food Science and Technology",
         "campus": 0,
         "hegis_category_id": 1,
         "id": 5
     },
     {
-        "hegis_codes": 1991,
+        "hegis_codes": 1993,
         "major": "Agricultural Biology and Plant & Irrigation Science",
         "campus": 0,
         "hegis_category_id": 1,
@@ -70,21 +70,21 @@
         "id": 10
     },
     {
-        "hegis_codes": 3011,
+        "hegis_codes": 3071,
         "major": "Asian/East Asian Studies",
         "campus": 0,
         "hegis_category_id": 3,
         "id": 11
     },
     {
-        "hegis_codes": 3081,
+        "hegis_codes": 3085,
         "major": "Latin/Central American Studies",
         "campus": 0,
         "hegis_category_id": 3,
         "id": 12
     },
     {
-        "hegis_codes": 3101,
+        "hegis_codes": 3122,
         "major": "European Studies",
         "campus": 0,
         "hegis_category_id": 3,
@@ -105,7 +105,7 @@
         "id": 15
     },
     {
-        "hegis_codes": 4012,
+        "hegis_codes": 4201,
         "major": "Environmental Biology & Ecology",
         "campus": 0,
         "hegis_category_id": 4,
@@ -224,7 +224,7 @@
         "id": 32
     },
     {
-        "hegis_codes": 5082,
+        "hegis_codes": 5083,
         "major": "Travel and Tourism/Tourism Management",
         "campus": 0,
         "hegis_category_id": 5,
@@ -280,7 +280,7 @@
         "id": 40
     },
     {
-        "hegis_codes": 5996,
+        "hegis_codes": 5997,
         "major": "Entrepreneurship & Small Business Management",
         "campus": 0,
         "hegis_category_id": 5,
@@ -294,7 +294,7 @@
         "id": 42
     },
     {
-        "hegis_codes": 6021,
+        "hegis_codes": 6022,
         "major": "Journalism",
         "campus": 0,
         "hegis_category_id": 6,
@@ -322,7 +322,7 @@
         "id": 46
     },
     {
-        "hegis_codes": 7011,
+        "hegis_codes": 7028,
         "major": "Computer Science and Information Technology",
         "campus": 0,
         "hegis_category_id": 7,
@@ -336,14 +336,14 @@
         "id": 48
     },
     {
-        "hegis_codes": 8011,
+        "hegis_codes": 8225,
         "major": "Education",
         "campus": 0,
         "hegis_category_id": 8,
         "id": 49
     },
     {
-        "hegis_codes": 8231,
+        "hegis_codes": 8232,
         "major": "Child Development",
         "campus": 0,
         "hegis_category_id": 8,
@@ -371,7 +371,7 @@
         "id": 53
     },
     {
-        "hegis_codes": 9011,
+        "hegis_codes": 9013,
         "major": "Engineering",
         "campus": 0,
         "hegis_category_id": 9,
@@ -434,7 +434,7 @@
         "id": 62
     },
     {
-        "hegis_codes": 9132,
+        "hegis_codes": 9133,
         "major": "Industrial Management & Technology",
         "campus": 0,
         "hegis_category_id": 9,
@@ -511,7 +511,7 @@
         "id": 73
     },
     {
-        "hegis_codes": 10021,
+        "hegis_codes": 10022,
         "major": "Art",
         "campus": 0,
         "hegis_category_id": 10,
@@ -602,7 +602,7 @@
         "id": 86
     },
     {
-        "hegis_codes": 11011,
+        "hegis_codes": 11013,
         "major": "World Languages and Cultures/Translation",
         "campus": 0,
         "hegis_category_id": 11,
@@ -693,14 +693,14 @@
         "id": 99
     },
     {
-        "hegis_codes": 12231,
+        "hegis_codes": 12232,
         "major": "Medical Technology",
         "campus": 0,
         "hegis_category_id": 12,
         "id": 100
     },
     {
-        "hegis_codes": 12251,
+        "hegis_codes": 12253,
         "major": "Radiologic Science & Technology",
         "campus": 0,
         "hegis_category_id": 12,
@@ -861,7 +861,7 @@
         "id": 123
     },
     {
-        "hegis_codes": 20011,
+        "hegis_codes": 20013,
         "major": "Psychology",
         "campus": 0,
         "hegis_category_id": 20,
@@ -889,7 +889,7 @@
         "id": 127
     },
     {
-        "hegis_codes": 21025,
+        "hegis_codes": 21031,
         "major": "Recreation Management & Administration",
         "campus": 0,
         "hegis_category_id": 21,
@@ -952,7 +952,7 @@
         "id": 136
     },
     {
-        "hegis_codes": 22061,
+        "hegis_codes": 22063,
         "major": "Geography",
         "campus": 0,
         "hegis_category_id": 22,
@@ -994,10 +994,10 @@
         "id": 142
     },
     {
-        "hegis_codes": 22990,
+        "hegis_codes": 49991,
         "major": "Women's Studies",
         "campus": 0,
-        "hegis_category_id": 22,
+        "hegis_category_id": 49,
         "id": 143
     },
     {
@@ -1022,7 +1022,7 @@
         "id": 146
     },
     {
-        "hegis_codes": 22996,
+        "hegis_codes": 22999,
         "major": "Asian/Asian-American Studies",
         "campus": 0,
         "hegis_category_id": 22,
@@ -1043,7 +1043,7 @@
         "id": 149
     },
     {
-        "hegis_codes": 49012,
+        "hegis_codes": 49017,
         "major": "Liberal Studies",
         "campus": 0,
         "hegis_category_id": 49,
@@ -1071,45 +1071,94 @@
         "id": 153
     },
     {
+        "hegis_codes": 7012,
+        "major": "Computer Science and Information Technology",
+        "campus": 70,
+        "hegis_category_id": 7,
+        "id": 154
+    },
+    {
+        "hegis_codes": 9011,
+        "major": "Engineering",
+        "campus": 70,
+        "hegis_category_id": 9,
+        "id": 155
+    },
+    {
+        "hegis_codes": 10021,
+        "major": "Art",
+        "campus": 70,
+        "hegis_category_id": 10,
+        "id": 156
+    },
+    {
         "hegis_codes": 12031,
         "major": "Nursing",
         "campus": 70,
         "hegis_category_id": 12,
-        "id": 154
+        "id": 157
     },
     {
-        "hegis_codes": 21031,
-        "major": "Recreation Management & Administration",
+        "hegis_codes": 20011,
+        "major": "Psychology",
+        "campus": 70,
+        "hegis_category_id": 20,
+        "id": 158
+    },
+    {
+        "hegis_codes": 21025,
+        "major": "Hospitality",
         "campus": 70,
         "hegis_category_id": 21,
-        "id": 155
+        "id": 159
+    },
+    {
+        "hegis_codes": 22061,
+        "major": "Geography",
+        "campus": 70,
+        "hegis_category_id": 22,
+        "id": 160
     },
     {
         "hegis_codes": 49993,
         "major": "Interdis Stds/Special Major",
         "campus": 70,
         "hegis_category_id": 49,
-        "id": 156
-    },
-    {
-        "hegis_codes": 3085,
-        "major": "Latin/Central American Studies",
-        "campus": 70,
-        "hegis_category_id": 3,
-        "id": 157
-    },
-    {
-        "hegis_codes": 4201,
-        "major": "Environmental Biology & Ecology",
-        "campus": 70,
-        "hegis_category_id": 4,
-        "id": 158
+        "id": 161
     },
     {
         "hegis_codes": 5062,
         "major": "Office Systems ",
         "campus": 70,
         "hegis_category_id": 5,
-        "id": 159
+        "id": 162
+    },
+    {
+        "hegis_codes": 8231,
+        "major": "Child Development",
+        "campus": 70,
+        "hegis_category_id": 8,
+        "id": 163
+    },
+    {
+        "hegis_codes": 12231,
+        "major": "Medical Technology",
+        "campus": 70,
+        "hegis_category_id": 12,
+        "id": 164
+    },
+    {
+        "hegis_codes": 22996,
+        "major": "Asian/Asian-American Studies",
+        "campus": 70,
+        "hegis_category_id": 22,
+        "id": 165
+    },
+    {
+        "hegis_codes": 49012,
+        "major": "Liberal Studies",
+        "campus": 70,
+        "hegis_category_id": 49,
+        "id": 166
     }
 ]

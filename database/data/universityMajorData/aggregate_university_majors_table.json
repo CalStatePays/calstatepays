@@ -1,19 +1,19 @@
 [
     {
         "campus": 0,
-        "hegis_codes": 121,
+        "hegis_codes": 12032,
         "id": 1,
-        "major": "Pre-Nursing & Nursing RN-BS"
+        "major": "Nursing"
     },
     {
         "campus": 0,
-        "hegis_codes": 1011,
+        "hegis_codes": 1091,
         "id": 2,
         "major": "Agriculture/Agricultural Science & Horticulture"
     },
     {
         "campus": 0,
-        "hegis_codes": 1041,
+        "hegis_codes": 1043,
         "id": 3,
         "major": "Animal Science/Animal Health Science"
     },
@@ -25,13 +25,13 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 1130,
+        "hegis_codes": 1131,
         "id": 5,
         "major": "Food Science and Technology"
     },
     {
         "campus": 0,
-        "hegis_codes": 1991,
+        "hegis_codes": 1993,
         "id": 6,
         "major": "Agricultural Biology and Plant & Irrigation Science"
     },
@@ -61,19 +61,19 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 3011,
+        "hegis_codes": 3071,
         "id": 11,
         "major": "Asian/East Asian Studies"
     },
     {
         "campus": 0,
-        "hegis_codes": 3081,
+        "hegis_codes": 3085,
         "id": 12,
         "major": "Latin/Central American Studies"
     },
     {
         "campus": 0,
-        "hegis_codes": 3101,
+        "hegis_codes": 3122,
         "id": 13,
         "major": "European Studies"
     },
@@ -91,7 +91,7 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 4012,
+        "hegis_codes": 4201,
         "id": 16,
         "major": "Environmental Biology & Ecology"
     },
@@ -193,7 +193,7 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 5082,
+        "hegis_codes": 5083,
         "id": 33,
         "major": "Travel and Tourism/Tourism Management"
     },
@@ -241,7 +241,7 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 5996,
+        "hegis_codes": 5997,
         "id": 41,
         "major": "Entrepreneurship & Small Business Management"
     },
@@ -253,7 +253,7 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 6021,
+        "hegis_codes": 6022,
         "id": 43,
         "major": "Journalism"
     },
@@ -277,7 +277,7 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 7011,
+        "hegis_codes": 7028,
         "id": 47,
         "major": "Computer Science and Information Technology"
     },
@@ -289,13 +289,13 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 8011,
+        "hegis_codes": 8225,
         "id": 49,
         "major": "Education"
     },
     {
         "campus": 0,
-        "hegis_codes": 8231,
+        "hegis_codes": 8232,
         "id": 50,
         "major": "Child Development"
     },
@@ -319,7 +319,7 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 9011,
+        "hegis_codes": 9013,
         "id": 54,
         "major": "Engineering"
     },
@@ -373,7 +373,7 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 9132,
+        "hegis_codes": 9133,
         "id": 63,
         "major": "Industrial Management & Technology"
     },
@@ -439,7 +439,7 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 10021,
+        "hegis_codes": 10022,
         "id": 74,
         "major": "Art"
     },
@@ -517,7 +517,7 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 11011,
+        "hegis_codes": 11013,
         "id": 87,
         "major": "World Languages and Cultures/Translation"
     },
@@ -595,13 +595,13 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 12231,
+        "hegis_codes": 12232,
         "id": 100,
         "major": "Medical Technology"
     },
     {
         "campus": 0,
-        "hegis_codes": 12251,
+        "hegis_codes": 12253,
         "id": 101,
         "major": "Radiologic Science & Technology"
     },
@@ -739,7 +739,7 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 20011,
+        "hegis_codes": 20013,
         "id": 124,
         "major": "Psychology"
     },
@@ -763,7 +763,7 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 21025,
+        "hegis_codes": 21031,
         "id": 128,
         "major": "Recreation Management & Administration"
     },
@@ -817,7 +817,7 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 22061,
+        "hegis_codes": 22063,
         "id": 137,
         "major": "Geography"
     },
@@ -853,7 +853,7 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 22990,
+        "hegis_codes": 49991,
         "id": 143,
         "major": "Women's Studies"
     },
@@ -877,7 +877,7 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 22996,
+        "hegis_codes": 22999,
         "id": 147,
         "major": "Asian/Asian-American Studies"
     },
@@ -895,7 +895,7 @@
     },
     {
         "campus": 0,
-        "hegis_codes": 49012,
+        "hegis_codes": 49017,
         "id": 150,
         "major": "Liberal Studies"
     },
@@ -914,7 +914,7 @@
     {
         "campus": 0,
         "hegis_codes": 4101,
-        "id": 153,
+        "id": 154,
         "major": "Physiology"
     }
 ]

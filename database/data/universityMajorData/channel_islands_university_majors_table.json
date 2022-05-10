@@ -1,176 +1,176 @@
 [
     {
         "campus": 73,
-        "hegis_codes": 121,
-        "id": 154,
-        "major": "Pre-Nursing & Nursing RN-BS"
+        "hegis_codes": 12032,
+        "id": 155,
+        "major": "Nursing"
     },
     {
         "campus": 73,
         "hegis_codes": 4011,
-        "id": 155,
+        "id": 156,
         "major": "Biology"
     },
     {
         "campus": 73,
         "hegis_codes": 4171,
-        "id": 156,
+        "id": 157,
         "major": "Cell and Molecular Biology"
     },
     {
         "campus": 73,
         "hegis_codes": 5011,
-        "id": 157,
+        "id": 158,
         "major": "Business Administration"
     },
     {
         "campus": 73,
         "hegis_codes": 6011,
-        "id": 158,
+        "id": 159,
         "major": "Communications"
     },
     {
         "campus": 73,
-        "hegis_codes": 7011,
-        "id": 159,
+        "hegis_codes": 7028,
+        "id": 160,
         "major": "Computer Science and Information Technology"
     },
     {
         "campus": 73,
-        "hegis_codes": 8231,
-        "id": 160,
+        "hegis_codes": 8232,
+        "id": 161,
         "major": "Child Development"
     },
     {
         "campus": 73,
         "hegis_codes": 10015,
-        "id": 161,
+        "id": 162,
         "major": "Performing Arts"
     },
     {
         "campus": 73,
-        "hegis_codes": 10021,
-        "id": 162,
+        "hegis_codes": 10022,
+        "id": 163,
         "major": "Art"
     },
     {
         "campus": 73,
         "hegis_codes": 10031,
-        "id": 163,
+        "id": 164,
         "major": "Art History"
     },
     {
         "campus": 73,
         "hegis_codes": 11051,
-        "id": 164,
+        "id": 165,
         "major": "Spanish"
     },
     {
         "campus": 73,
         "hegis_codes": 12011,
-        "id": 165,
+        "id": 166,
         "major": "Health Science"
     },
     {
         "campus": 73,
         "hegis_codes": 15011,
-        "id": 166,
+        "id": 167,
         "major": "English"
     },
     {
         "campus": 73,
         "hegis_codes": 17011,
-        "id": 167,
+        "id": 168,
         "major": "Mathematics"
     },
     {
         "campus": 73,
         "hegis_codes": 19025,
-        "id": 168,
+        "id": 169,
         "major": "Applied Physics"
     },
     {
         "campus": 73,
         "hegis_codes": 19051,
-        "id": 169,
+        "id": 170,
         "major": "Chemistry"
     },
     {
         "campus": 73,
-        "hegis_codes": 20011,
-        "id": 170,
+        "hegis_codes": 20013,
+        "id": 171,
         "major": "Psychology"
     },
     {
         "campus": 73,
         "hegis_codes": 22021,
-        "id": 171,
+        "id": 172,
         "major": "Anthropology"
     },
     {
         "campus": 73,
         "hegis_codes": 22041,
-        "id": 172,
+        "id": 173,
         "major": "Economics"
     },
     {
         "campus": 73,
         "hegis_codes": 22051,
-        "id": 173,
+        "id": 174,
         "major": "History"
     },
     {
         "campus": 73,
         "hegis_codes": 22071,
-        "id": 174,
+        "id": 175,
         "major": "Political Science"
     },
     {
         "campus": 73,
         "hegis_codes": 22081,
-        "id": 175,
+        "id": 176,
         "major": "Sociology"
     },
     {
         "campus": 73,
         "hegis_codes": 22131,
-        "id": 176,
+        "id": 177,
         "major": "Mexican-American Studies"
     },
     {
         "campus": 73,
         "hegis_codes": 22997,
-        "id": 177,
+        "id": 178,
         "major": "International Studies"
     },
     {
         "campus": 73,
         "hegis_codes": 49011,
-        "id": 178,
+        "id": 179,
         "major": "Environmental Studies"
     },
     {
         "campus": 73,
-        "hegis_codes": 49012,
-        "id": 179,
+        "hegis_codes": 49017,
+        "id": 180,
         "major": "Liberal Studies"
     },
     {
         "campus": 73,
         "hegis_codes": 49051,
-        "id": 180,
+        "id": 181,
         "major": "Land Resource Management"
     },
     {
         "campus": 73,
         "hegis_codes": 0,
-        "id": 181,
+        "id": 182,
         "major": "Undeclared/Unknown"
     },
     {
         "campus": 73,
         "hegis_codes": 4991,
-        "id": 182,
+        "id": 184,
         "major": "Biotechnology"
     }
 ]
