@@ -11,7 +11,7 @@
             </router-link>
             <router-link class="col-4 sub-nav__element" active-class="sub-nav__element--active" to="/data/pfre" @click.native="setDataPage('pfre')">
                 <i class="sub-nav__element__mobile-icon fa fa-cog fa-fw fa-usd fa-2x" aria-hidden="true"></i>
-                <span>FRE</span>
+                <span>PFRE</span>
             </router-link>
         </div>
     </nav>
