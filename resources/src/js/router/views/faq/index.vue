@@ -85,21 +85,24 @@
 				</v-expansion-panel>
 				<v-expansion-panel popout class="col-12 col-lg-6 px-3">
 					<v-expansion-panel-content>
-						<div slot="header" class="font-weight-bold">What is Finacial Return on Education?</div>
-						<div class="p-sm-4 faq-panel">Financial Return on Education (FRE) is your expected Personal Financial Return on Education, or your Expected Rate of Return for pursuing a specific bachelor's degree.  The FRE calculator is compiled based on the available CSU campuses data. Note this calculator is only meant for undergraduate degrees.</div>
+						<div slot="header" class="font-weight-bold">What is Personal Financial Return on Education?</div>
+						<div class="p-sm-4 faq-panel">Personal Financial Return on Education (PFRE), also called Internal Rate of Return to education, is an interest rate-like number that provides information on your financial reward for pursuing a specific bachelor's degree. During school you make an investment by paying for tuition, books and giving up the opportunity to work as much as you could if you were not attending school. After education, you enter the labor force and can earn more money than you would without the bachelor’s degree until you retire. PFRE is the implicit interest rate on this investment. The PFRE calculator is compiled based on the available CSU campuses data for undergraduate degree programs. It uses real earnings data from past CSU graduates.</div>
 					</v-expansion-panel-content>
 				</v-expansion-panel>
 				<v-expansion-panel popout class="col-12 col-lg-6 px-3">
 					<v-expansion-panel-content>
-						<div slot="header" class="font-weight-bold">What factors affect your Personal Financial Return on Education?</div>
-						<div class="p-sm-4 faq-panel">Your PFRE changes when:
+						<div slot="header" class="font-weight-bold">What factors affect your Personal Financial Return on Education (PFRE)?</div>
+						<div class="p-sm-4 faq-panel">Things that influence your Personal Financial Return on Education (PFRE):
 							<ul class="pt-4">
-								<li>The younger you start, the longer you get higher post-graduation earnings--increasing PFRE.</li>
-								<li>The more you could earn without a Bachelor's Degree, the more post-graduation income you give up to get it--decreasing PFRE.</li>
-								<li>The more you earn while obtaining a Bachelor's Degree, the less income you give up to get it--increasing PFRE.</li>
-								<li>The more financial aid money you receive (excluding loans), the less you pay to get a Bachelor's Degree--increasing PFRE.</li>
+								<li>The more you could earn without a bachelor’s degree, the more earnings you give up while enrolled --decreasing PFRE. For example, transfer students with an associates degree from a community college have better opportunities to earn more while at CSU than a first-time freshman.  The income not earned while enrolled in school is often called opportunity cost.</li>
+								<li>The shorter time you spend at CSU, the briefer the investment period, the lower the opportunity cost and, thus, the higher the PFRE.
+								<li>The more you earn while obtaining a bachelor’s degree, the less income you give up to get it--increasing PFRE. There can be other effects as well.  It might take you longer to graduate (lowering PFRE).  You also learn useful things on the job which can make your earnings after graduation greater.</li>
+								<li>The more financial aid money you receive (excluding loans), the less you pay to get a bachelor’s degree--increasing PFRE.
 								<li>The longer it takes you to graduate, the higher your education costs--decreasing PFRE.</li>
+								<li>The earlier you begin work after completing your bachelor degree, the longer you receive higher post-graduation earnings, which increases your PFRE. When older people get education, they have fewer years after graduation and prior to retirement so there is a shorter period of higher earnings and a lower PFRE.</li>
 								<li>Majors that produce higher post-graduation earnings will get a higher PFRE.</li>
+								<li>Majors that send most graduates to advanced degree programs (Law Degrees, MBAs, Medical Degrees, etc.) have mixed effects on PFRE.  On the one hand it can be a long time before you graduate from the advanced degree and enter the labor force – reducing PFRE.  On the other hand, earning after entering the labor force are usually much higher.</li>
+
 							</ul>
 						</div>
 					</v-expansion-panel-content>
