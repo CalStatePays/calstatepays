@@ -94,14 +94,14 @@
 						<div slot="header" class="font-weight-bold">What factors affect your Personal Financial Return on Education (PFRE)?</div>
 						<div class="p-sm-4 faq-panel">Things that influence your Personal Financial Return on Education (PFRE):
 							<ul class="pt-4">
-								<li>The more you could earn without a bachelor’s degree, the more earnings you give up while enrolled --decreasing PFRE. For example, transfer students with an associates degree from a community college have better opportunities to earn more while at CSU than a first-time freshman.  The income not earned while enrolled in school is often called opportunity cost.</li>
+								<li>The more you could earn without a bachelor’s degree, the more earnings you give up while enrolled - decreasing PFRE. For example, transfer students with an associates degree from a community college have better opportunities to earn more while at CSU than a first-time freshman. The income not earned while enrolled in school is often called opportunity cost.</li>
 								<li>The shorter time you spend at CSU, the briefer the investment period, the lower the opportunity cost and, thus, the higher the PFRE.
-								<li>The more you earn while obtaining a bachelor’s degree, the less income you give up to get it--increasing PFRE. There can be other effects as well.  It might take you longer to graduate (lowering PFRE).  You also learn useful things on the job which can make your earnings after graduation greater.</li>
-								<li>The more financial aid money you receive (excluding loans), the less you pay to get a bachelor’s degree--increasing PFRE.
+								<li>The more you earn while obtaining a bachelor’s degree, the less income you give up to get it - increasing PFRE. There can be other effects as well. It might take you longer to graduate (lowering PFRE). You also learn useful things on the job which can make your earnings after graduation greater.</li>
+								<li>The more financial aid money you receive (excluding loans), the less you pay to get a bachelor’s degree - increasing PFRE.
 								<li>The longer it takes you to graduate, the higher your education costs--decreasing PFRE.</li>
 								<li>The earlier you begin work after completing your bachelor degree, the longer you receive higher post-graduation earnings, which increases your PFRE. When older people get education, they have fewer years after graduation and prior to retirement so there is a shorter period of higher earnings and a lower PFRE.</li>
 								<li>Majors that produce higher post-graduation earnings will get a higher PFRE.</li>
-								<li>Majors that send most graduates to advanced degree programs (Law Degrees, MBAs, Medical Degrees, etc.) have mixed effects on PFRE.  On the one hand it can be a long time before you graduate from the advanced degree and enter the labor force – reducing PFRE.  On the other hand, earning after entering the labor force are usually much higher.</li>
+								<li>Majors that send most graduates to advanced degree programs (Law Degrees, MBAs, Medical Degrees, etc.) have mixed effects on PFRE. On the one hand it can be a long time before you graduate from the advanced degree and enter the labor force – reducing PFRE. On the other hand, earning after entering the labor force are usually much higher.</li>
 
 							</ul>
 						</div>
