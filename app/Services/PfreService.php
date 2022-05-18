@@ -21,6 +21,7 @@ class PfreService implements PfreContract
         if (empty($data)) {
             return ['pfre' => 'No data.'];
         }
+        $data[$request->financial_aid] = $data[$request->financial_aid] * 100;
         $data = number_format((float)$data[$request->financial_aid], 0, '.', '') . "%";
         $data = [
             'pfre' => $data
