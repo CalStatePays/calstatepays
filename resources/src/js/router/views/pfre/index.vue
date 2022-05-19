@@ -2,7 +2,7 @@
 	<div>
 		<csu-data-img-banner>
 			<h2 class="CSUDataImgBanner__dataTitle" slot="title">
-				<span>Personal Financial Return on Education</span>
+				<span>Personal Financial Return on Education <i class="fa fa-question-circle" aria-hidden="true"></i></span>
 			</h2>
 			<p
 				class="CSUDataImgBanner__dataCopy"

@@ -7,7 +7,7 @@
 				</div>
 			</div>
 			<div class="form-group">
-				<label class="font-weight-bold" for="fieldOfStudy">Select a Discipline (Optional)</label>
+				<label class="font-weight-bold" for="fieldOfStudy">Select a Discipline (Optional) <i class="fa fa-question-circle" aria-hidden="true"></i></label>
 				<v-select
 					label="discipline"
 					aria-label="Select Discipline Optional"
@@ -21,7 +21,7 @@
 					class="font-weight-bold"
 					for="Major"
 					v-bind:style="[this.submitted && !this.form.major ? errorLabel : '']"
-				>Select a Major</label>
+				>Select a Major <i class="fa fa-question-circle" aria-hidden="true"></i></label>
 				<v-select
 					label="major"
 					aria-label="Select a Major"
@@ -39,7 +39,7 @@
 					class="form-group font-weight-bold"
 					for="education"
 					v-bind:style="[this.submitted && !this.form.education ? errorLabel : '']"
-				>How You Entered the CSU</label>
+				>How You Entered the CSU <i class="fa fa-question-circle" aria-hidden="true"></i></label>
 				<div class="row">
 					<div class="col-sm-6 col-lg-12">
 						<button
@@ -62,7 +62,7 @@
 					class="font-weight-bold"
 					for="earnings"
 					v-bind:style="[this.submitted && this.form.earnings === null ? errorLabel : '']"
-				>Estimated Annual Earnings While Attending the CSU</label>
+				>Estimated Annual Earnings While Attending the CSU <i class="fa fa-question-circle" aria-hidden="true"></i></label>
 				<v-select
 					label="earn"
 					aria-label="Estimated Annual Earnings In School"
@@ -79,7 +79,7 @@
 					for="financialAid"
 					v-bind:style="[this.submitted && this.form.financialAid === null ? errorLabel : '']"
 					class="font-weight-bold"
-				>Estimated Annual Financial Aid (Excluding Loans)</label>
+				>Estimated Annual Financial Aid (Excluding Loans) <i class="fa fa-question-circle" aria-hidden="true"></i></label>
 				<v-select
 					label="finAid"
 					aria-label="Estimated Annual Financial Aid Excluding Loans"

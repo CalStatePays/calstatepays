@@ -18,7 +18,7 @@
 						<i class="fa fa-exclamation-circle"></i> Please select a Major.
 					</div>
 					<div class="form-group">
-						<label class="font-weight-bold" for="fieldOfStudy">Select a Discipline (Optional)</label>
+						<label class="font-weight-bold" for="fieldOfStudy">Select a Discipline (Optional) <i class="fa fa-question-circle" aria-hidden="true"></i></label>
 						<v-select
 							label="discipline"
 							aria-label="Select Discipline Optional"
@@ -33,7 +33,7 @@
 							class="font-weight-bold"
 							for="Major"
 							v-bind:style="[this.submittedOnce && !this.form.majorId ? errorLabel : '']"
-						>Select a Major</label>
+						>Select a Major <i class="fa fa-question-circle" aria-hidden="true"></i></label>
 						<v-select
                             label="major"
 							aria-label="Select Major"
