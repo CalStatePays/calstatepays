@@ -100,6 +100,14 @@ const router = new VueRouter({
 				title: 'Credits | CalStatePays'
 			}
 		},
+		{
+			path: '/about',
+			component: about,
+			name: 'about',
+			meta: {
+				title: 'About | CalStatePays'
+			}
+		},
 	]
 });
 

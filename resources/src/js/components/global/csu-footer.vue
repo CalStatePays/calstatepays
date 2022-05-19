@@ -11,7 +11,7 @@
                 <router-link class="footer__link text-white pull-right" :to="`/feedback`">Feedback</router-link>
             </div>
         </footer>
-        <div class="footer-meta" id="footer-meta" :class="{ 'footer-meta--data': this.onData }">
+        <!-- <div class="footer-meta" id="footer-meta" :class="{ 'footer-meta--data': this.onData }">
             <div class="row">
                 <div class="col-md-3 col-12">
                     <a href="//www.csun.edu/academic-affairs/meta-lab" target="csun">
@@ -24,7 +24,7 @@
                     </router-link>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </template>
 <script>

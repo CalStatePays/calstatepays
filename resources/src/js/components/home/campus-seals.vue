@@ -32,12 +32,12 @@ export default {
             url: "",
             isShowing: false,
             universitySeals:[
-                {url: window.baseUrl + '/img/csuseals/long_beach_seal.svg',name:'Long Beach',alt:'',admission:'http://www.csulb.edu/admissions'},
-                {url: window.baseUrl + '/img/csuseals/poly_seal.svg',name:'Pomona',alt:'',admission:'https://www.cpp.edu/admissions/index.shtml'},
-                {url: window.baseUrl + '/img/csuseals/fullerton_seal.svg',name:'Fullerton',alt:'',admission:'http://admissions.fullerton.edu/'},
-                {url :window.baseUrl+ '/img/csuseals/northridge_seal.svg',name:'Northridge',alt:'',admission:'https://www.csun.edu/admissions-records'},
-                {url: window.baseUrl + '/img/csuseals/dominguez_seal.svg',name:'Dominguez Hills',alt:'',admission:'https://www.csudh.edu/records-registration/'},
-                {url: window.baseUrl + '/img/csuseals/channel_islands_seal.svg',name:'Channel Islands',alt:'',admission:'https://www.csuci.edu/admissions/'},                
+                {url: window.baseUrl + '/img/csuseals/long_beach_seal.svg',name:'Long Beach',alt:'California State University Long Beach seal',admission:'https://www.csulb.edu/admissions'},
+                {url: window.baseUrl + '/img/csuseals/poly_seal.svg',name:'Pomona',alt:'California State University Polytechnic Pomona seal',admission:'https://www.cpp.edu/admissions/index.shtml'},
+                {url: window.baseUrl + '/img/csuseals/fullerton_seal.svg',name:'Fullerton',alt:'California State University Fullerton seal',admission:'https://admissions.fullerton.edu/'},
+                {url :window.baseUrl + '/img/csuseals/northridge_seal.svg',name:'Northridge',alt:'California State University Northridge seal',admission:'https://www.csun.edu/admissions-records'},
+                {url: window.baseUrl + '/img/csuseals/dominguez_seal.svg',name:'Dominguez Hills',alt:'California State University Dominguez Hills seal',admission:'https://www.csudh.edu/records-registration/'},
+                {url: window.baseUrl + '/img/csuseals/channel_islands_seal.svg',name:'Channel Islands',alt:'California State University Channel Islands seal',admission:'https://www.csuci.edu/admissions/'},                
             ]
         };
     }

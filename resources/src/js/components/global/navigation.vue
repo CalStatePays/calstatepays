@@ -34,10 +34,14 @@
                                 </router-link>
                                 <router-link class="nav-link" tag="li" active-class="hr-nav" to="/faq">
                                     <a @click="toggleShowNav()" class="nav-item" role="menuitem">
-                                    FAQ
+                                        FAQ
                                     </a>
                                 </router-link>
-                                
+                                <router-link class="nav-link" tag="li" active-class="hr-nav" to="/about">
+                                    <a @click="toggleShowNav()" class="nav-item" role="menuitem">
+                                        About
+                                    </a>
+                                </router-link>
                             </ul>
                         </div>
                     </nav>

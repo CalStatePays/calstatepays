@@ -32,12 +32,12 @@
       <p class="col-xs-6 col-sm-4 col-md-4 text-center">
         Steve Fitzgerald - Director
         <br />Yazmin Peebles - Assistant Director
-        <br />Luis J. G - Project Manager
+        <br />Luis J. Guzman - Project Manager
         <br />Alec N. Marcum - Scrum Master
         <br />Mikkal McNulty - Full Stack Developer
         <br />Jaime Garcia - UI/UX
         <br />Zane Ervin - Front End Developer
-        <br />Edge A. Cano - Front End Developer
+        <br />Edgar A. Cano - Front End Developer
         <br />Carlos Benavides - Back End Developer
         <br />Michael Chan - Back End Developer
         <br />Jorge A. Ruiz - DevOps
