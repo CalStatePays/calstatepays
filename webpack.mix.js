@@ -18,7 +18,10 @@ mix.options({
  |
  */
 
-mix.js('resources/src/js/app.js', 'public/js')
+mix.js([
+    'resources/src/js/app.js',
+    'node_modules/bootstrap/dist/js/bootstrap.bundle.js'
+    ], 'public/js')
     .sass('resources/src/sass/app.scss', 'public/css');
 mix.copy('node_modules/font-awesome/fonts', 'public/fonts');
 
