@@ -2,7 +2,7 @@
   <div>
     <csu-data-img-banner>
       <h2 class="CSUDataImgBanner__dataTitle" slot="title">
-        <span>Top Industries by Major <i class="fa fa-question-circle" aria-hidden="true"></i></span>
+        <span>Top Industries by Major <a class="text-white" href="#" data-toggle="tooltip" data-placement="right" title="Testing"><i class="fa fa-question-circle" aria-hidden="true"></i></a></span>
       </h2>
       <p class="CSUDataImgBanner__dataCopy" slot="copy">
         Different majors lead to jobs in different industries. Select a major and find out where CSU students work, and what they earn, five years after they leave.
@@ -29,6 +29,9 @@ import subNav from "../../../components/global/sub-nav.vue";
 import industryProgress from "../../../components/industries/industry-progress.vue";
 import industryForm from "../../../components/industries/industry-form.vue"
 export default {
+    created() {
+      $('[data-toggle="tooltip"]').tooltip();
+    },
     data(){
       return {
         loadingCheck: false

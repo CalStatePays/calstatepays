@@ -10,7 +10,7 @@
 						<i class="fa fa-exclamation-circle"></i> Please select a Major.
 					</div>
 					<div v-if="!industryFormWasSubmitted===true" class="form-group">
-						<label class="font-weight-bold" for="fieldOfStudy">Select a Discipline (Optional) <i class="fa fa-question-circle" aria-hidden="true"></i></label>
+						<label class="font-weight-bold" for="fieldOfStudy">Select a Discipline (Optional) <a href="#" data-toggle="tooltip" data-placement="right" title="Testing"><i class="fa fa-question-circle" aria-hidden="true"></i></a></label>
 						<v-select
 							label="discipline"
 							aria-label="Select Discipline Optional"
@@ -21,7 +21,7 @@
 					</div>
 					<div v-if="!industryFormWasSubmitted" class="form-group">
 						<label class="font-weight-bold" for="Major" v-bind:style="[!this.form.majorId && this.submittedOnce ? errorLabel : '']">
-						Select a Major <i class="fa fa-question-circle" aria-hidden="true"></i>
+						Select a Major <a href="#" data-toggle="tooltip" data-placement="right" title="Testing"><i class="fa fa-question-circle" aria-hidden="true"></i></a>
 						</label>
 						<v-select
 							label="major"
@@ -88,7 +88,7 @@ import { mapGetters, mapActions } from "vuex";
 
 export default {
 	created() {
-
+		$('[data-toggle="tooltip"]').tooltip();
 	},
 	data() {
 		return {

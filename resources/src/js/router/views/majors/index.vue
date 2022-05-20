@@ -2,7 +2,7 @@
 	<div>
 		<csu-data-img-banner>
 			<h2 class="CSUDataImgBanner__dataTitle" slot="title">
-				<span>Major Earnings Over Time <i class="fa fa-question-circle" aria-hidden="true"></i></span>
+				<span>Major Earnings Over Time <a class="text-white" href="#" data-toggle="tooltip" data-placement="right" title="Testing"><i class="fa fa-question-circle" aria-hidden="true"></i></a></span>
 			</h2>
 			<p class="CSUDataImgBanner__dataCopy" slot="copy">
 				College graduates earn more money over time. Select a major and find out how earnings for graduates,
@@ -130,6 +130,7 @@ export default {
 		window.removeEventListener("resize", this.getWindowWidth);
 	},
 	created() {
+		$('[data-toggle="tooltip"]').tooltip();
 		window.addEventListener("scroll", this.handleScroll);
 	},
 	destroyed() {
