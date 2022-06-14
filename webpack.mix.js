@@ -20,6 +20,7 @@ mix.options({
 
 mix.js([
     'resources/src/js/app.js',
+    'node_modules/popper.js/dist/popper.js',
     'node_modules/bootstrap/dist/js/bootstrap.bundle.js'
     ], 'public/js')
     .sass('resources/src/sass/app.scss', 'public/css');
