@@ -7,7 +7,7 @@
 				</div>
 			</div>
 			<div class="form-group">
-				<label class="font-weight-bold" for="fieldOfStudy">Select a Discipline (Optional) <a href="#" data-toggle="tooltip" data-placement="right" title="Testing"><i class="fa fa-question-circle" aria-hidden="true"></i></a></label>
+				<label class="font-weight-bold" for="fieldOfStudy">Select a Discipline (Optional)</label>
 				<v-select
 					label="discipline"
 					aria-label="Select Discipline Optional"
@@ -21,7 +21,7 @@
 					class="font-weight-bold"
 					for="Major"
 					v-bind:style="[this.submitted && !this.form.major ? errorLabel : '']"
-				>Select a Major <a href="#" data-toggle="tooltip" data-placement="right" title="Testing"><i class="fa fa-question-circle" aria-hidden="true"></i></a></label>
+				>Select a Major</label>
 				<v-select
 					label="major"
 					aria-label="Select a Major"
@@ -39,7 +39,7 @@
 					class="form-group font-weight-bold"
 					for="education"
 					v-bind:style="[this.submitted && !this.form.education ? errorLabel : '']"
-				>How You Entered the CSU <a href="#" data-toggle="tooltip" data-placement="right" title="Testing"><i class="fa fa-question-circle" aria-hidden="true"></i></a></label>
+				>How You Entered the CSU <i class="fa fa-question-circle" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="Select First Time Freshman if you plan to enter directly from High School, or select First Time Transfer if you plan to transfer from a Community College or other institution."></i></label>
 				<div class="row">
 					<div class="col-sm-6 col-lg-12">
 						<button
@@ -62,7 +62,7 @@
 					class="font-weight-bold"
 					for="earnings"
 					v-bind:style="[this.submitted && this.form.earnings === null ? errorLabel : '']"
-				>Estimated Annual Earnings While Attending the CSU <a href="#" data-toggle="tooltip" data-placement="right" title="Testing"><i class="fa fa-question-circle" aria-hidden="true"></i></a></label>
+				>Estimated Annual Earnings While Attending the CSU <i class="fa fa-question-circle" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="Click on the range that best estimates how much you expect to earn each year while you are enrolled. Many students work while attending college. This reduces the earnings you miss out on while in college and increases your personal financial return."></i></label>
 				<v-select
 					label="earn"
 					aria-label="Estimated Annual Earnings In School"
@@ -79,7 +79,7 @@
 					for="financialAid"
 					v-bind:style="[this.submitted && this.form.financialAid === null ? errorLabel : '']"
 					class="font-weight-bold"
-				>Estimated Annual Financial Aid (Excluding Loans) <a href="#" data-toggle="tooltip" data-placement="right" title="Testing"><i class="fa fa-question-circle" aria-hidden="true"></i></a></label>
+				>Estimated Annual Financial Aid (Excluding Loans) <i class="fa fa-question-circle" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="Click on the range that best represents the amount of money you expect to receive as grants or scholarhips (such as Cal Grants, Pell Grants, veterans benefits or employer reimbursement) in a year. Do not include student loans. Receiving grants and scholarships lowers the cost of attending and increases your personal financial return."></i></label>
 				<v-select
 					label="finAid"
 					aria-label="Estimated Annual Financial Aid Excluding Loans"
@@ -106,12 +106,13 @@
 </template>
 <script>
 import vSelect from "vue-select";
+import $ from "jquery";
 import { updateForm } from "../../utils/index";
 import { required } from "vuelidate/lib/validators";
 import { mapGetters, mapActions } from "vuex";
 
 export default {
-	created() {
+	mounted() {
 		$('[data-toggle="tooltip"]').tooltip();
 	},
 	data() {

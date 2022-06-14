@@ -2,7 +2,7 @@
 	<div>
 		<csu-data-img-banner>
 			<h2 class="CSUDataImgBanner__dataTitle" slot="title">
-				<span>Personal Financial Return on Education <a class="text-white" href="#" data-toggle="tooltip" data-placement="right" title="Testing"><i class="fa fa-question-circle" aria-hidden="true"></i></a></span>
+				<span>Personal Financial Return on Education</span>
 			</h2>
 			<p
 				class="CSUDataImgBanner__dataCopy"
@@ -33,9 +33,6 @@ import pfreInfo from "../../../components/pfre/pfre-info.vue";
 import pfreProgress from "../../../components/pfre/pfre-progress.vue";
 import { mapGetters ,mapActions} from "vuex";
 export default {
-	created() {
-		$('[data-toggle="tooltip"]').tooltip();
-	},
 	components: {
 		csuDataImgBanner,
 		card,

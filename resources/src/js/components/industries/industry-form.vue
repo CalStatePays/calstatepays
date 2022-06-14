@@ -10,7 +10,7 @@
 						<i class="fa fa-exclamation-circle"></i> Please select a Major.
 					</div>
 					<div v-if="!industryFormWasSubmitted===true" class="form-group">
-						<label class="font-weight-bold" for="fieldOfStudy">Select a Discipline (Optional) <a href="#" data-toggle="tooltip" data-placement="right" title="Testing"><i class="fa fa-question-circle" aria-hidden="true"></i></a></label>
+						<label class="font-weight-bold" for="fieldOfStudy">Select a Discipline (Optional)</label>
 						<v-select
 							label="discipline"
 							aria-label="Select Discipline Optional"
@@ -21,7 +21,7 @@
 					</div>
 					<div v-if="!industryFormWasSubmitted" class="form-group">
 						<label class="font-weight-bold" for="Major" v-bind:style="[!this.form.majorId && this.submittedOnce ? errorLabel : '']">
-						Select a Major <a href="#" data-toggle="tooltip" data-placement="right" title="Testing"><i class="fa fa-question-circle" aria-hidden="true"></i></a>
+						Select a Major
 						</label>
 						<v-select
 							label="major"
@@ -58,7 +58,7 @@
                         </div>
 					</div>
 					
-					<p class="text-center h5 majors-header my-5-md my-4">Select a Degree Level</p>
+					<p class="text-center h5 majors-header my-5-md my-4">Select a Degree Level <i class="fa fa-question-circle" aria-hidden="true" data-toggle="tooltip" data-placement="right" data-html="true" title="<b>Graduate Degree:</b> Completed a Bachelors degree in  the selected major and CSU campus, and completed a Graduate degree, in any field, at any institution.<br><br><b>Bachelors:</b> completed a Bechelors degree in the selected major and CSU campus.<br><br><b>Some College:</b> started the program in the selected major and CSU campus, but did not finish a Bachelors degree anywhere."></i></p>
 					<button class="btn btn-sm major-btn_postBacc" :id="'postBacc-' + form.cardIndex" @click.prevent="toggleIndustryEducationLevel('post_bacc')" >
 						<i class= "major-btn_icon" v-bind:class="{'fa fa-check': industryEducationLevel == 'post_bacc', '':industryEducationLevel != 'post_bacc'}" ></i>
 						Graduate Degree
@@ -82,12 +82,13 @@
 
 <script>
 import vSelect from "vue-select";
+import $ from "jquery";
 import { required } from "vuelidate/lib/validators";
 import { updateForm } from "../../utils/index";
 import { mapGetters, mapActions } from "vuex";
 
 export default {
-	created() {
+	mounted() {
 		$('[data-toggle="tooltip"]').tooltip();
 	},
 	data() {

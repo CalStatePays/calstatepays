@@ -24,7 +24,7 @@
 						<h3 class="csu-card__title">{{industryMajor}}</h3>
 					</div>
 					<div v-if="industriesByMajor.length > 0" class="col-12">
-						<p class="h6">Employment 5 Years After Leaving Higher Education</p>
+						<p class="h6">Employment 5 Years After Leaving Higher Education <i class="fa fa-question-circle" aria-hidden="true" data-toggle="tooltip" data-placement="right" title="Shows industries where students worked five years after leaving education."></i></p>
 					</div>
 					<div v-if="industriesByMajor.length > 0" class="col-sm-12 col-md-4 offset-md-3">
 						<span class="IndustryLegend__LegendPercentage"></span>Percentage of Students Employed in Industry
@@ -36,7 +36,7 @@
 						<p class="lead pl-md-5 pr-md-5">No data is available for this selected Degree Level.</p>
 						<p class="lead pl-md-5 pr-md-5">
 							Please see the
-							<router-link to="/faq" class="font-weight-bold">FAQ</router-link>section for more information on
+							<router-link to="/faq" class="font-weight-bold">FAQ</router-link> section for more information on
 							how we collected the data.
 						</p>
 					</div>
@@ -84,7 +84,11 @@
 </template>
 <script>
 import { mapGetters } from "vuex";
+import $ from 'jquery';
 export default {
+	mounted() {
+		$('[data-toggle="tooltip"]').tooltip();
+	},
 	methods: {
 		formatDollars(input) {
 			if (input) {

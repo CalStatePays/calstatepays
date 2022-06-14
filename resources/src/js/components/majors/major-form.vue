@@ -18,7 +18,7 @@
 						<i class="fa fa-exclamation-circle"></i> Please select a Major.
 					</div>
 					<div class="form-group">
-						<label class="font-weight-bold" for="fieldOfStudy">Select a Discipline (Optional) <a href="#" data-toggle="tooltip" data-placement="right" title="Testing"><i class="fa fa-question-circle" aria-hidden="true"></i></a></label>
+						<label class="font-weight-bold" for="fieldOfStudy">Select a Discipline (Optional)</label>
 						<v-select
 							label="discipline"
 							aria-label="Select Discipline Optional"
@@ -33,7 +33,7 @@
 							class="font-weight-bold"
 							for="Major"
 							v-bind:style="[this.submittedOnce && !this.form.majorId ? errorLabel : '']"
-						>Select a Major <a href="#" data-toggle="tooltip" data-placement="right" title="Testing"><i class="fa fa-question-circle" aria-hidden="true"></i></a></label>
+						>Select a Major</label>
 						<v-select
                             label="major"
 							aria-label="Select Major"
@@ -67,7 +67,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<p class="text-center h5 majors-header my-5-md my-4 col-12">Select a Degree Level</p>
+						<p class="text-center h5 majors-header my-5-md my-4 col-12">Select a Degree Level <i class="fa fa-question-circle" aria-hidden="true" data-toggle="tooltip" data-placement="right" data-html="true" title="<b>Graduate Degree:</b> Completed a Bachelors degree in  the selected major and CSU campus, and completed a Graduate degree, in any field, at any institution.<br><br><b>Bachelors:</b> completed a Bechelors degree in the selected major and CSU campus.<br><br><b>Some College:</b> started the program in the selected major and CSU campus, but did not finish a Bachelors degree anywhere."></i></p>
 					</div>
 					<button
 						class="btn btn-sm major-btn_all"
@@ -125,13 +125,14 @@
 
 <script>
 import vSelect from "vue-select";
+import $ from "jquery";
 import { required } from "vuelidate/lib/validators";
 import { updateForm } from "../../utils/index";
 import { mapGetters, mapActions } from "vuex";
 
 export default {
 	props: ["index", "windowWidth"],
-	created() {
+	mounted() {
 		$('[data-toggle="tooltip"]').tooltip();
 	},
 	data() {
