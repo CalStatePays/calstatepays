@@ -4,7 +4,7 @@
             <img class="homeBanner__CSPLogo" :src="this.url + '/img/homeimages/CSP-logo-black.svg'" alt="Cal State Pays"/>
         </h1>
         <p class="m-0">
-            <img class="homeBanner__Tagline" :src="this.url + '/img/homeimages/visions-verified.svg'" alt="Visions Verified"/>
+            <img class="homeBanner__Tagline" :src="this.url + '/img/homeimages/learn-what-youll-earn.svg'" alt="Learn What You'll Earn"/>
         </p>
     </div>
 </template>
