@@ -25,7 +25,7 @@
                                     </svg>
                                 </div>
                                 <div class="col-6 col-sm-7 col-md-12 align-self-center p-0">
-                                    <h2 class="homeCard__title--major">Verify <br> Majors Pay</h2>
+                                    <h2 class="homeCard__title--major">Earnings By Major</h2>
                                 </div>
                                 <div class="col-2 d-md-none align-self-center">
                                     <i class="homeCard__title--major fa fa-chevron-right"></i>
@@ -69,7 +69,7 @@
                                         </svg>
                                     </div>
                                     <div class="col-6 col-sm-7 col-md-12 align-self-center p-0">
-                                        <h2 class="homeCard__title--industries">Verify <br> Industries Pay</h2>
+                                        <h2 class="homeCard__title--industries">Earnings By Industry</h2>
                                     </div>
                                     <div class="col-2 d-md-none align-self-center">
                                         <i class="homeCard__title--industries fa fa-chevron-right"></i>
@@ -78,7 +78,7 @@
                         </div>
                         <div class="row">
                             <div class="col-12">
-                                <p class="homeCard__Copy--industries">Explore where CSU graduates work and what they earn.</p>
+                                <p class="homeCard__Copy--industries">Find out where CSU graduates work and what they earn.</p>
                             </div>
                         </div>
                     </router-link>
@@ -95,7 +95,7 @@
                                     </svg>
                                 </div>
                                 <div class="col-6 col-sm-7 col-md-12 align-self-center p-0">
-                                    <h2 class="homeCard__title--PFRE">Verify CSU Degrees Pay</h2>
+                                    <h2 class="homeCard__title--PFRE">Financial Return</h2>
                                 </div>
                                 <div class="col-2 d-md-none align-self-center">
                                     <i class="homeCard__title--PFRE fa fa-chevron-right"></i>
@@ -104,7 +104,7 @@
                         </div>
                         <div class="row">
                             <div class="col-12">
-                                <p class="homeCard__Copy--PFRE">What’s the return on a CSU education. Find out the costs and benefits.</p>
+                                <p class="homeCard__Copy--PFRE pb-2">Find out the<br>financial return on your education.</p>
                             </div>
                         </div>
                     </router-link>
