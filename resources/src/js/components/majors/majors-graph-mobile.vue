@@ -156,14 +156,18 @@ export default {
 						params.forEach(item => {
 							let val = "";
 							//format data
-							if (item.data > 999) {
-								let strVal = item.data.toString();
-								let first = strVal.slice(0, -3);
-								let second = strVal.slice(-3);
-								val = "$" + first + "," + second;
-							} else if (item.data === null) val = "No Data";
-							else val = "$" + item.data;
-
+							if (item.data === null) {
+								val = "No Data";
+							}
+							else {
+								const nf = new Intl.NumberFormat("en-US", {
+								  style: "currency",
+								  currency: "USD",
+								  maximumFractionDigits: 0,
+								  roundingIncrement: 5
+								});
+								val = nf.format(item.data);
+							}
 							var xx =
 								"<h6>" +
 								colorSpan(item.color) +

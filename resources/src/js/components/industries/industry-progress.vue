@@ -72,7 +72,7 @@
 									/>
 								</div>
 								<div class="col-2 pl-0">
-									<p class="IndustryProgressBarWrapper__SalaryText">${{formatDollars(industry.industryWage)}}</p>
+									<p class="IndustryProgressBarWrapper__SalaryText">{{formatDollars(industry.industryWage)}}</p>
 								</div>
 							</div>
 						</div>
@@ -92,17 +92,20 @@ export default {
 	methods: {
 		formatDollars(input) {
 			if (input) {
-				let dollarAmount = input.toString();
-				let hundreds = dollarAmount.substr(-3, 3);
-				let thousands = dollarAmount.slice(0, -3);
-				return thousands + "," + hundreds;
+				const nf = new Intl.NumberFormat("en-US", {
+				  style: "currency",
+				  currency: "USD",
+				  maximumFractionDigits: 0,
+				  roundingIncrement: 5
+				});
+
+				return nf.format(input);
 			}
 			return input;
 		},
 		formatPercentages(value) {
 			if (value) {
-				let finalPercentage = value.toString();
-				return finalPercentage.slice(0, -1);
+				return value.toFixed(2);
 			}
 			return value;
 		}

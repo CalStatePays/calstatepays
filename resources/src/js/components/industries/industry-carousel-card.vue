@@ -14,8 +14,7 @@ export default {
   methods: {
     formatPercentages(value) {
       if (value) {
-        let finalPercentage = value.toString();
-        return finalPercentage.slice(0,-1);
+        return value.toFixed(2);
       }
       return value;
     }
