@@ -165,8 +165,8 @@ export default {
 		shareDescription() {
 			let universityFullName = this.retrieveUniversityFullName(this.universities, this.selectedUniversity);
 
-			if(universityFullName === 'CSU7')
-					universityFullName = 'the CSU7';
+			if(universityFullName === 'CSU 6')
+					universityFullName = 'the CSU 6';
 
 			let opening = 'I discovered that ' + this.selectedMajorTitle + ' students from '+ universityFullName+' make an average of ';
 
