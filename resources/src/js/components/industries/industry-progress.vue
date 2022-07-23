@@ -105,7 +105,7 @@ export default {
 		},
 		formatPercentages(value) {
 			if (value) {
-				return value.toFixed(2);
+				return value.toFixed(1);
 			}
 			return value;
 		}
