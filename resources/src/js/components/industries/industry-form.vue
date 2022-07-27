@@ -58,7 +58,7 @@
                         </div>
 					</div>
 					
-					<p class="text-center h5 majors-header my-5-md my-4">Select a Degree Level <i class="fa fa-question-circle" aria-hidden="true" data-toggle="tooltip" data-placement="right" data-html="true" title="<b>Graduate Degree:</b> Completed a Bachelors degree in  the selected major and CSU campus, and completed a Graduate degree, in any field, at any institution.<br><br><b>Bachelors:</b> completed a Bechelors degree in the selected major and CSU campus.<br><br><b>Some College:</b> started the program in the selected major and CSU campus, but did not finish a Bachelors degree anywhere."></i></p>
+					<p class="text-center h5 majors-header my-5-md my-4">Select a Degree Level <i class="fa fa-question-circle" aria-hidden="true" data-toggle="tooltip" data-placement="right" data-html="true" title="<b>Graduate Degree:</b> Completed a Bachelors degree in  the selected major and CSU campus, and completed a Graduate degree, in any field, at any institution.<br><br><b>Bachelors:</b> Completed a Bachelors degree in the selected major and CSU campus.<br><br><b>Some College:</b> Started the program in the selected major and CSU campus, but did not finish a Bachelors degree anywhere."></i></p>
 					<button class="btn btn-sm major-btn_postBacc" :id="'postBacc-' + form.cardIndex" @click.prevent="toggleIndustryEducationLevel('post_bacc')" >
 						<i class= "major-btn_icon" v-bind:class="{'fa fa-check': industryEducationLevel == 'post_bacc', '':industryEducationLevel != 'post_bacc'}" ></i>
 						Graduate Degree
@@ -89,7 +89,9 @@ import { mapGetters, mapActions } from "vuex";
 
 export default {
 	mounted() {
-		$('[data-toggle="tooltip"]').tooltip();
+		$(document).ready(function() {
+			$('[data-toggle="tooltip"]').tooltip();
+		});
 	},
 	data() {
 		return {

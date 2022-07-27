@@ -87,7 +87,9 @@ import { mapGetters } from "vuex";
 import $ from 'jquery';
 export default {
 	mounted() {
-		$('[data-toggle="tooltip"]').tooltip();
+		$(document).ready(function() {
+			$('[data-toggle="tooltip"]').tooltip();
+		});
 	},
 	methods: {
 		formatDollars(input) {

@@ -113,7 +113,9 @@ import { mapGetters, mapActions } from "vuex";
 
 export default {
 	mounted() {
-		$('[data-toggle="tooltip"]').tooltip();
+		$(document).ready(function() {
+			$('[data-toggle="tooltip"]').tooltip();
+		});
 	},
 	data() {
 		return {

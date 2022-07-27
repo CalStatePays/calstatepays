@@ -67,7 +67,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<p class="text-center h5 majors-header my-5-md my-4 col-12">Select a Degree Level <i class="fa fa-question-circle" aria-hidden="true" data-toggle="tooltip" data-placement="right" data-html="true" title="<b>Graduate Degree:</b> Completed a Bachelors degree in  the selected major and CSU campus, and completed a Graduate degree, in any field, at any institution.<br><br><b>Bachelors:</b> completed a Bechelors degree in the selected major and CSU campus.<br><br><b>Some College:</b> started the program in the selected major and CSU campus, but did not finish a Bachelors degree anywhere."></i></p>
+						<p class="text-center h5 majors-header my-5-md my-4 col-12">Select a Degree Level <i class="fa fa-question-circle" aria-hidden="true" data-toggle="tooltip" data-placement="right" data-html="true" title="<b>Graduate Degree:</b> Completed a Bachelors degree in  the selected major and CSU campus, and completed a Graduate degree, in any field, at any institution.<br><br><b>Bachelors:</b> Completed a Bachelors degree in the selected major and CSU campus.<br><br><b>Some College:</b> Started the program in the selected major and CSU campus, but did not finish a Bachelors degree anywhere."></i></p>
 					</div>
 					<button
 						class="btn btn-sm major-btn_all"
@@ -133,7 +133,9 @@ import { mapGetters, mapActions } from "vuex";
 export default {
 	props: ["index", "windowWidth"],
 	mounted() {
-		$('[data-toggle="tooltip"]').tooltip();
+		$(document).ready(function() {
+			$('[data-toggle="tooltip"]').tooltip();
+		});
 	},
 	data() {
 		return {

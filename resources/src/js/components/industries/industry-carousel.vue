@@ -22,7 +22,9 @@ import { mapGetters, mapActions } from 'vuex';
 export default {
   props: ['industries', 'empty', 'major'],
   mounted() {
-    $('[data-toggle="tooltip"]').tooltip();
+    $(document).ready(function() {
+      $('[data-toggle="tooltip"]').tooltip();
+    });
   },
 
   components: {
