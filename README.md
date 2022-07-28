@@ -1,7 +1,5 @@
 # CalStatePays
 
-[![Build Status](https://travis-ci.com/csun-metalab/calstatepays.svg?token=e9qZAYzzq9K9MQ8bgdpF&branch=dev)](https://travis-ci.com/csun-metalab/calstatepays) [![Build Status](https://travis-ci.com/csun-metalab/calstatepays.svg?token=e9qZAYzzq9K9MQ8bgdpF&branch=demo)](https://travis-ci.com/csun-metalab/calstatepays) [![Build Status](https://travis-ci.com/csun-metalab/calstatepays.svg?token=e9qZAYzzq9K9MQ8bgdpF&branch=master)](https://travis-ci.com/csun-metalab/calstatepays)
-
 CalStatePays is a visualization application for discovering, exploring, and analyzing the potential student financial earnings after graduation from 1 of 6 different Cal State Universities. California State employment records associated with alumni from these CSU campuses are used as the bases for the information that is presented.
 
 * Our production website for CalStatePays is located at: https://calstatepays.org
