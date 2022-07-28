@@ -2,11 +2,9 @@
 
 [![Build Status](https://travis-ci.com/csun-metalab/calstatepays.svg?token=e9qZAYzzq9K9MQ8bgdpF&branch=dev)](https://travis-ci.com/csun-metalab/calstatepays) [![Build Status](https://travis-ci.com/csun-metalab/calstatepays.svg?token=e9qZAYzzq9K9MQ8bgdpF&branch=demo)](https://travis-ci.com/csun-metalab/calstatepays) [![Build Status](https://travis-ci.com/csun-metalab/calstatepays.svg?token=e9qZAYzzq9K9MQ8bgdpF&branch=master)](https://travis-ci.com/csun-metalab/calstatepays)
 
-CalStatePays is a visualization application for discovering, exploring, and analyzing the potential student financial earnings after graduation from 1 of 7 different Cal State Universities. California State employment records associated with alumni from these CSU campuses are used as the bases for the information that is presented.
+CalStatePays is a visualization application for discovering, exploring, and analyzing the potential student financial earnings after graduation from 1 of 6 different Cal State Universities. California State employment records associated with alumni from these CSU campuses are used as the bases for the information that is presented.
 
 * Our production website for CalStatePays is located at: https://calstatepays.org
-* Our sandbox website for CalStatePays is located at: https://www.sandbox.csun.edu/calstatepays
-
 
 ## Table of Contents
 <!-- TOC -->
@@ -39,11 +37,11 @@ To be revised!
 
 
 ### Development Installation
-As a developer, you will find it useful to install the application, in total, on your local machine.  These development installation creates four containers used to setup a working environment. This environment contains a webserver, a database, and two supporting containers.  The webserver mounts the home directory of your cloned project. This allows the developer to use their favorite development tools outside of the containers, with updates to software being made directly.
+As a developer, you will find it useful to install the application, in total, on your local machine.  The development installation creates four containers used to setup a working environment. This environment contains a web server, a database, and two supporting containers.  The web server mounts the home directory of your cloned project. This allows the developer to use their favorite development tools outside of the containers, with updates to software being made directly.
 
 The steps you need to perform to install this sofware are as follows:
   ```
-  git clone https://github.com/csuntechlab/calstatepays.git
+  git clone https://github.com/CalStatePays/calstatepays.git
   cd calstatepays
   cp .env.dev .env
   docker-compose up --detach
@@ -54,11 +52,11 @@ The steps you need to perform to install this sofware are as follows:
   docker-compose exec web php artisan migrate --seed
   ```
 
-⚠️ This process is driven by the .env.dev file.  Container names, etc, are derived from the COMPOSE_PROJECT_NAME which has been set to "calstatepays". You may want to review the contents of this file prior to running the docker-compose command referenced above, and make appropriate changes.  E.g., you might want to change the default password for the database.
+⚠️ This process is driven by the `.env.dev` file.  Container names, etc, are derived from the `COMPOSE_PROJECT_NAME` which has been set to "calstatepays". You may want to review the contents of this file prior to running the `docker-compose` command referenced above, and make appropriate changes.  E.g., you might want to change the default password for the database.
 
 You may launch your favorite web browser and access your version of the calstatepays application:
   * The application is reachable at: http://localhost:8080/    # The port number can be changed via the WEB_PORT environment variable
-  * The database GUI is reachable at: http://localhost:8081/   # The port number can be changed via the ADMIR_PORT environment variable
+  * The database GUI is reachable at: http://localhost:8081/   # The port number can be changed via the ADMINER_PORT environment variable
 
 You can reset your docker environment via the following command:
 ```
@@ -144,7 +142,7 @@ For additional information on the conversion process, etc., see the [calstatepay
 
 ## Bugs and issues:
 
-If you discover a bug and or issue within the application, please create a JIRA ticket with the BUG prefix. In addition, please list the necessary steps to reproduce the bug in the description.
+If you discover a bug and or issue within the application, please create a GitHub issue with the bug label. In addition, please list the necessary steps to reproduce the bug in the description.
 
 ## License
 CalStatePays is open-sourced software licensed under the GNU General Public License v3+. A copy can be found in the `COPYING` file.
