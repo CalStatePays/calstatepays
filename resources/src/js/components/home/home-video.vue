@@ -17,7 +17,7 @@ export default {
     data() {
         return {
             url: '',
-            videoId: 'JUUR4Hc3qmg',
+            videoId: 'kQa2fk2yC1Y',
             playerVars: {
                 modestbranding: 1,
                 iv_load_policy: 3,

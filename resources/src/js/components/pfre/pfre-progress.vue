@@ -17,6 +17,9 @@
 					For more information on how we gathered the data, please read the
 					<router-link to="/faq" class="font-weight-bold">FAQ</router-link>.
 				</p>
+				<div class="pl-md-5 pr-md-5">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/FAmlV9qvM7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
 			</div>
 			<div v-else id="progress-bars">
 				<div class="row">
