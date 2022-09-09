@@ -72,14 +72,14 @@
 		      <div class="row">
 		        <div class="col-md-6">
 		          <ul>
-		            <li>Ranjit A. Philip</li>
-		            <li>Yazmin Peebles</li>
+		            <li>Ranjit A. Philip, IT VP & CIO</li>
+		            <li>Yazmin Peebles, Power User Visualizations</li>
 		          </ul>
 		        </div>
 		        <div class="col-md-6">
 		          <ul>
-		            <li>Luis Guzman</li>
-		            <li>Prakash Nair</li>
+		            <li>Luis Guzman, Web Developer</li>
+		            <li>Prakash Nair, Dir. Cloud & Systems Svcs.</li>
 		          </ul>
 		        </div>
 		      </div>
@@ -88,14 +88,21 @@
 		      <h3>META+LAB</h3>
 					<p>META+LAB was an innovative organization at CSUN that used students, faculty and IT professionals to develop original solutions to data system problems. The original Website Design and supporting databases were designed by a META+LAB team that including:</p>
 			    <div class="row">
-			      <div class="col-md-6">
+			      <div class="col-md-12">
+			      	<p class="font-weight-bold">Staff</p>
 			        <ul>
 			          <li>Steve Fitzgerald - Director</li>
 			          <li>Yazmin Peebles - Assistant Director</li>
 			          <li>Luis J. Guzman - Project Manager</li>
+			        </ul>
+		        </div>
+		        <div class="col-md-6">
+		        	<p class="font-weight-bold">Students</p>
+			        <ul>
 			          <li>Alec N. Marcum - Scrum Master</li>
 			          <li>Mikkal McNulty - Full Stack Developer</li>
 			          <li>Jaime Garcia - UI/UX</li>
+			          <li>Jasmine Beeman - Graphic Desinger & UI/UX</li>
 			        </ul>
 		        </div>
 		        <div class="col-md-6">
