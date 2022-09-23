@@ -71,6 +71,17 @@
                             <button v-else type="button" class="power-user-modal-btn btn-success btn-locked">View Data</button>          
                     </div>
                 </div>
+                <v-divider></v-divider>
+                <div :class="(credentialDisplayIsAllowed) ? 'row': 'row tableau-loading'">
+                    <div class="col-3">
+                        <i class="fa fa-certificate fa-5x text-warning" aria-hidden="true"></i>
+                    </div>
+                    <div class="col-9">
+                        <span class="d-block">Earnings by Credential Type</span>
+                            <button v-if="credentialDisplayIsAllowed" @click="chooseTableauCategory(university.id,5)" type="button" class="power-user-modal-btn btn-success">View Data</button>
+                            <button v-else type="button" class="power-user-modal-btn btn-success btn-locked">View Data</button>          
+                    </div>
+                </div>
             </div>
         </v-card-text>
         <v-divider></v-divider>
@@ -82,17 +93,17 @@ import {mapGetters,mapActions} from 'vuex';
 export default {
     props:['showModal','university'],
     name: 'power-users-modal',
-        data(){
-            return{
+        data() {
+            return {
                 str:'researchcsun',
-            tabl:'CSU7LaborMarketOutcomes-ByMajor/CSU7AggregareEarningsData'
+                tabl:'CSU7LaborMarketOutcomes-ByMajor/CSU7AggregareEarningsData'
         }
     },
     created() {
         document.addEventListener('keyup', this.onEscKey)
     },
-    methods:{
-        closeModal:function(){
+    methods: {
+        closeModal:function() {
             this.$emit('closeModal')
         },
         onEscKey(event) {
@@ -100,16 +111,17 @@ export default {
                 this.closeModal()
             }
         },
-        chooseTableauCategory(university,path_id){
+        chooseTableauCategory(university, path_id) {
             let tableauObj = {
-                "iframe_server":this.optInValues[university][path_id].iframe_server,
+                // "iframe_server":this.optInValues[university][path_id].iframe_server,
                 "iframe_string":this.optInValues[university][path_id].iframe_string
             } 
             sessionStorage.setItem('tableauValue', tableauObj["iframe_string"]);
             this.$store.dispatch('setTableauValue', tableauObj["iframe_string"]);
             this.$router.push({name:'tableau' , params:{tableauValue:this.tableauValue}});
         }
-    },computed:{
+    },
+    computed: {
         ...mapGetters([
             "universityById",
             "tableauValue",
@@ -122,8 +134,12 @@ export default {
             if(this.university != undefined && this.optInValues['0'] != undefined) {
                 currentUniversityId = this.university.id;
                 var currentValues = this.optInValues[currentUniversityId];
-                currentOptInValue = currentValues[0].opt_in;
-                return currentOptInValue===1 ? true :false;
+                if (currentValues[0] != undefined && currentValues[0].opt_in != undefined) {
+                    currentOptInValue = currentValues[0].opt_in;
+                    return currentOptInValue === 1 ? true :false;
+                } else {
+                    return false;
+                }
             } else {
                 return false;
             }
@@ -134,8 +150,12 @@ export default {
             if(this.university != undefined && this.optInValues['0'] != undefined) {
                 currentUniversityId = this.university.id;
                 var currentValues = this.optInValues[currentUniversityId];
-                currentOptInValue = currentValues[1].opt_in;
-                return currentOptInValue===1 ? true :false;
+                if (currentValues[1] != undefined && currentValues[1].opt_in != undefined) {
+                    currentOptInValue = currentValues[1].opt_in;
+                    return currentOptInValue === 1 ? true :false;
+                } else {
+                    return false;
+                }
             } else {
                 return false;
             }
@@ -146,8 +166,12 @@ export default {
             if(this.university != undefined && this.optInValues['0'] != undefined) {
                 currentUniversityId = this.university.id;
                 var currentValues = this.optInValues[currentUniversityId];
-                currentOptInValue = currentValues[2].opt_in;
-                return currentOptInValue===1 ? true :false;
+                if (currentValues[2] != undefined && currentValues[2].opt_in != undefined) {
+                    currentOptInValue = currentValues[2].opt_in;
+                    return currentOptInValue === 1 ? true :false;
+                } else {
+                    return false;
+                }
             } else {
                 return false;
             }
@@ -158,8 +182,12 @@ export default {
             if(this.university != undefined && this.optInValues['0'] != undefined) {
                 currentUniversityId = this.university.id;
                 var currentValues = this.optInValues[currentUniversityId];
-                currentOptInValue = currentValues[3].opt_in;
-                return currentOptInValue===1 ? true :false;
+                if (currentValues[3] != undefined && currentValues[3].opt_in != undefined) {
+                    currentOptInValue = currentValues[3].opt_in;
+                    return currentOptInValue === 1 ? true :false;
+                } else {
+                    return false;
+                }
             } else {
                 return false;
             }
@@ -170,17 +198,37 @@ export default {
             if(this.university != undefined && this.optInValues['0'] != undefined) {
                 currentUniversityId = this.university.id;
                 var currentValues = this.optInValues[currentUniversityId];
-                currentOptInValue = currentValues[4].opt_in;
-                return currentOptInValue===1 ? true :false;
+                if (currentValues[4] != undefined && currentValues[4].opt_in != undefined) {
+                    currentOptInValue = currentValues[4].opt_in;
+                    return currentOptInValue === 1 ? true :false;
+                } else {
+                    return false;
+                }
             } else {
                 return false;
             }
         },
-        dialog:{
-            get:function(){
+        credentialDisplayIsAllowed: function() {
+            var currentUniversityId; 
+            var currentOptInValue;
+            if(this.university != undefined && this.optInValues['0'] != undefined) {
+                currentUniversityId = this.university.id;
+                var currentValues = this.optInValues[currentUniversityId];
+                if (currentValues[5] != undefined && currentValues[5].opt_in != undefined) {
+                    currentOptInValue = currentValues[5].opt_in;
+                    return currentOptInValue === 1 ? true :false;
+                } else {
+                    return false;
+                }
+            } else {
+                return false;
+            }
+        },
+        dialog: {
+            get:function() {
                 return this.showModal;
             },
-            set:function(){
+            set:function() {
                 this.$emit('closeModal',false)
             }
         },   

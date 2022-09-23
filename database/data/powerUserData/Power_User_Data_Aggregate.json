@@ -28,5 +28,11 @@
     "opt_in": 1,
     "path_id": 5,
     "iframe_string": "https://counts.csun.edu/t/CalStatePays/views/CSU7byPell/CSU7byPell?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no"
+  },
+  {
+    "university_id": "0",
+    "opt_in": 1,
+    "path_id": 6,
+    "iframe_string": "https://counts.csun.edu/t/CalStatePays/views/CSU6byCredentialType/CSU7AggregareEarningsData?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no"
   }
 ]
