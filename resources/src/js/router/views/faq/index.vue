@@ -118,6 +118,17 @@
 						<div class="p-sm-4 faq-panel">Generally, faculty and staff from campuses who contributed data to calstatepays.org.</div>
 					</v-expansion-panel-content>
 				</v-expansion-panel>
+				<v-expansion-panel popout class="col-12 col-lg-6 px-3">
+					<v-expansion-panel-content>
+						<div slot="header" class="font-weight-bold">What do the educational credential data show in the Power Users section?</div>
+						<div class="p-sm-4 faq-panel"><span class="font-weight-bold">Credential Type:</span> Shows the various types of educational credentials awarded to the students, such as English, Biological Sciences, Early Childhood Education, Counseling or Administrative. These are based on a three-digit CSU Credential Objective Code. In 2010, a number of these three-digit CSU Credential Objective Codes changed, and in those cases a "2010" is denoted next to the credential type.<br><br><span class="font-weight-bold">Note:</span> Licensure and credentialing requirements are set by outside agencies that are not controlled by the CSU system, and requirements may change at any time. The Earnings and Industry data by Credential type is only for those who successfully completed a Credential program and were awarded a credential. The Credential data set is limited to:
+							<ol>
+								<li>Post Education Earnings (1 to 15 Years After Exit).</li>
+								<li>Industry, 5 and 10 Years After Exit.</li>
+							</ol>
+						</div>
+					</v-expansion-panel-content>
+				</v-expansion-panel>
 			</div>
 		</div>
 	</div>
