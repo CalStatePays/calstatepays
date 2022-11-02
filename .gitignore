@@ -14,5 +14,4 @@ npm-debug.log
 yarn-error.log
 .env
 .DS_Store
-python_parser
 database/data/errors/
