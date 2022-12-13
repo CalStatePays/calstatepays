@@ -27,7 +27,7 @@ services:
     container_name: ${COMPOSE_PROJECT_NAME}_adminer
     restart: always
     ports:
-      - ${ADMIR_PORT}:8080
+      - ${ADMINER_PORT}:8080
 
   # Database server
   db:
