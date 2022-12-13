@@ -64,12 +64,13 @@ docker-compose up --detach --force-recreate
 ```
 
 ## Development cycle
-During development, there are two major components that involve
-additional processing to ensure the code and database are setup correctly. One component is related to the front-end, where [Yarn](https://yarnpkg.com/) is used to pre-process the JavaScript code. The other component is related to thedatabase, were raw CSV files need to be converted to appropriate JSON data for the Laravel database component.
-A developer needs to take the following additional steps, during the development cycle if they make any changes to the JavaScript (which includes the Vue components) components or the database seed values.
+During development, there are two major components that involve additional processing to ensure the code and database are setup correctly. One component is related to the front-end, where [Yarn](https://yarnpkg.com/) / [npm](https://www.npmjs.com/) is used to pre-process the JavaScript code. The other component is related to the database, where the JSON representation of the data is processed and imported into a database.
 
 ### Front End
+A developer needs to take the following additional steps, during the development cycle if they make any changes to the JavaScript (which includes the Vue components).
 The Yarn Package manager is used to compile all of the front-end resources. Execute the following command to bring the compiled resources up-to-date.
+
+_**Please Note:** You can use either yarn or npm to run the following commands._
 
 ```
 $ docker-compose exec web yarn run dev
@@ -90,24 +91,21 @@ Prior any pull requests to merge in new front-end changes, make sure you run one
 ```
 $ docker-compose exec web yarn run prod
 ```
-or
-```
-$ docker-compose exec web npm run prod
-```
+
 ⚠️ **Important:** If the above step is not followed debug flags and other secrets might get left in for people to see through their browsers console.
 
 ### Database
-The raw CSV files are provided by the CalStatePays data team, which differs from the development team. These CSV files need to be converted to appropriate JSON files so that the a seed operation can load the database.  When we received update CSV files, which is very infrequent, the following steps need to be perform.
+The raw CSV files are provided by the CalStatePays data team, which differs from the development team. These CSV files need to be converted to appropriate JSON files so that the Laravel seed operation can load the data into the database.  When we receive updated CSV files, which is very infrequent, the following steps need to be perform.
 
 ```
 $ git submodule add https://github.com/CalStatePays/calstatepays_data.git python_parser
-$ # Place the input files from the data team into python_parser/python_parser_work_in_progress/csv
+$ # Place the CSV files from the data team into the following directory calstatepays/python_parser/python_parser_work_in_progress/csv
 ```
 
 For additional information on the conversion process, etc., see the [calstatepays_data](https://github.com/CalStatePays/calstatepays_data) project.
 
 ## Bugs and issues:
-If you discover a bug and or issue within the application, please create a GitHub issue with the bug label. In addition, please list the necessary steps to reproduce the bug in the description.
+If you discover a bug and or issue within the application, please create a GitHub issue and label it as a `bug`. In addition, please list the necessary steps to reproduce the bug in the description.
 
 ## License
 CalStatePays is open-sourced software licensed under the GNU General Public License v3+. A copy can be found in the `COPYING` file.
